@@ -1,4 +1,6 @@
-# Avian AI — Smart Multimodal Bird Species Identification with Temporal Audio Analysis
+# Avian AI — MULTIMODAL BIRD SPECIES IDENTIFICATION
+USING DEEP LEARNING WITH IMAGE AND AUDIO
+ANALYSIS
 
 An interactive AI-powered wildlife identification dashboard built with **Python 3.11**, **Streamlit**, and **TensorFlow / Keras**. Avian AI provides two independent deep-learning identification workflows—one for bird photographs and one for field audio recordings—alongside ranked Top-3 confidence scores, Wikipedia species profiles, and a Model Analytics dashboard.
 
