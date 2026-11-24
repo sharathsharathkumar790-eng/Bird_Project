@@ -1,0 +1,1043 @@
+/* Avian AI — Nature-Inspired Wildlife Identification Theme */
+
+:root {
+    --avian-primary: #1B4332;
+    --avian-primary-hover: #143326;
+    --avian-secondary: #52796F;
+    --avian-accent: #2D6A4F;
+    --avian-accent-soft: #E8F0EB;
+    --avian-bg: #F7F6F2;
+    --avian-surface: #FFFFFF;
+    --avian-surface-muted: #F2F4F0;
+    --avian-border: #DCE3DC;
+    --avian-text: #1F2933;
+    --avian-text-muted: #52606D;
+}
+
+/* Global Canvas & Typography */
+.stApp {
+    background-color: var(--avian-bg);
+    color: var(--avian-text);
+    font-family: "Inter", "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.block-container {
+    padding-top: 1.75rem;
+    padding-bottom: 3rem;
+    max-width: 1240px;
+}
+
+h1, h2, h3, h4 {
+    color: var(--avian-text);
+    letter-spacing: -0.015em;
+}
+
+/* Sidebar Styling */
+[data-testid="stSidebar"] {
+    background-color: #EEF2ED;
+    border-right: 1px solid var(--avian-border);
+}
+
+[data-testid="stSidebar"] .block-container {
+    padding-top: 1.75rem;
+}
+
+.avian-sidebar-brand {
+    padding: 0.25rem 0 1rem 0;
+    border-bottom: 1px solid var(--avian-border);
+    margin-bottom: 1rem;
+}
+
+.avian-sidebar-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--avian-primary);
+    background-color: var(--avian-accent-soft);
+    padding: 0.2rem 0.55rem;
+    border-radius: 999px;
+    margin-bottom: 0.5rem;
+}
+
+.avian-sidebar-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--avian-primary);
+    margin: 0;
+}
+
+.avian-sidebar-tagline {
+    font-size: 0.88rem;
+    color: var(--avian-text-muted);
+    margin: 0.35rem 0 0 0;
+    line-height: 1.45;
+}
+
+.avian-sidebar-card {
+    background-color: var(--avian-surface);
+    border: 1px solid var(--avian-border);
+    border-radius: 12px;
+    padding: 0.95rem 1rem;
+    margin-bottom: 0.9rem;
+}
+
+.avian-sidebar-card h4 {
+    font-size: 0.85rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--avian-primary);
+    margin: 0 0 0.6rem 0;
+}
+
+.avian-sidebar-card ul,
+.avian-sidebar-card ol {
+    margin: 0;
+    padding-left: 1.15rem;
+    font-size: 0.86rem;
+    color: var(--avian-text);
+    line-height: 1.55;
+}
+
+.avian-sidebar-card li + li {
+    margin-top: 0.3rem;
+}
+
+.avian-sidebar-footer {
+    font-size: 0.8rem;
+    color: var(--avian-text-muted);
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--avian-border);
+}
+
+/* Dashboard Hero Header */
+.avian-hero {
+    background-color: var(--avian-surface);
+    border: 1px solid var(--avian-border);
+    border-left: 6px solid var(--avian-primary);
+    border-radius: 16px;
+    padding: 1.5rem 1.75rem;
+    margin-bottom: 1.25rem;
+    box-shadow: 0 4px 18px rgba(27, 67, 50, 0.05);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.25rem;
+    flex-wrap: wrap;
+}
+
+.avian-hero-brand {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--avian-accent);
+    background-color: var(--avian-accent-soft);
+    padding: 0.25rem 0.65rem;
+    border-radius: 999px;
+    margin-bottom: 0.55rem;
+}
+
+.avian-hero-title {
+    font-size: 1.9rem;
+    font-weight: 750;
+    color: var(--avian-primary);
+    margin: 0;
+    line-height: 1.2;
+}
+
+.avian-hero-subtitle {
+    font-size: 0.98rem;
+    color: var(--avian-text-muted);
+    margin: 0.45rem 0 0 0;
+    line-height: 1.45;
+}
+
+.avian-hero-stats {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.avian-stat-pill {
+    background-color: var(--avian-surface-muted);
+    border: 1px solid var(--avian-border);
+    border-radius: 12px;
+    padding: 0.6rem 0.95rem;
+    min-width: 128px;
+}
+
+.avian-stat-value {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--avian-primary);
+    line-height: 1.2;
+}
+
+.avian-stat-label {
+    font-size: 0.76rem;
+    color: var(--avian-text-muted);
+    margin-top: 0.15rem;
+}
+
+/* Navigation Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 12px !important;
+    column-gap: 12px !important;
+    background-color: var(--avian-surface-muted);
+    padding: 0.35rem;
+    border-radius: 12px;
+    border: 1px solid var(--avian-border);
+    margin-bottom: 1.25rem;
+}
+
+.stTabs [data-baseweb="tab"] {
+    height: 42px;
+    padding: 0 16px !important;
+    border-radius: 8px 8px 0 0;
+    font-weight: 600;
+    font-size: 0.92rem;
+    color: var(--avian-text);
+    background-color: transparent;
+    border: none;
+    border-bottom: 4px solid transparent;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    cursor: pointer !important;
+    pointer-events: auto !important;
+    user-select: none !important;
+    -webkit-user-select: none !important;
+    transition: background-color 160ms ease, color 160ms ease, border-bottom-color 160ms ease !important;
+    will-change: background-color, border-bottom-color, color;
+}
+
+.stTabs [data-baseweb="tab"]:focus,
+.stTabs [data-baseweb="tab"]:focus-visible {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.stTabs [data-baseweb="tab"] * {
+    pointer-events: none !important;
+    user-select: none !important;
+}
+
+.stTabs [data-baseweb="tab"] [data-testid="stMarkdownContainer"] {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.stTabs [data-baseweb="tab"] p {
+    margin: 0 !important;
+    text-align: center !important;
+}
+
+.stTabs [data-baseweb="tab"][aria-selected="false"] {
+    background-color: transparent !important;
+    color: var(--avian-text) !important;
+    border-bottom: 4px solid transparent !important;
+}
+
+.stTabs [data-baseweb="tab"]:not([aria-selected="true"]):hover {
+    background-color: rgba(232, 240, 235, 0.5) !important;
+    color: #1B4332 !important;
+    cursor: pointer !important;
+}
+
+.stTabs [data-baseweb="tab"][aria-selected="true"],
+.stTabs [aria-selected="true"] {
+    background-color: var(--avian-accent-soft) !important;
+    color: #1B4332 !important;
+    font-weight: 700 !important;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+    border-radius: 8px 8px 0 0 !important;
+    border-bottom: 4px solid #1B4332 !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    cursor: pointer !important;
+}
+
+.stTabs [aria-selected="true"] p {
+    margin: 0 !important;
+    font-weight: 700 !important;
+    color: #1B4332 !important;
+}
+
+.stTabs [data-baseweb="tab-highlight"],
+.stTabs [data-baseweb="tab-border"] {
+    display: none;
+}
+
+.stTabs [data-baseweb="tab-panel"] {
+    animation: avianTabFadeIn 160ms cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: opacity;
+}
+
+@keyframes avianTabFadeIn {
+    0% {
+        opacity: 0.85;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+/* Component Header */
+.avian-component-header {
+    margin-bottom: 1rem;
+}
+
+.avian-component-title {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: var(--avian-primary);
+    margin: 0 0 0.25rem 0;
+}
+
+.avian-component-subtitle {
+    font-size: 0.93rem;
+    color: var(--avian-text-muted);
+    margin: 0;
+    line-height: 1.45;
+}
+
+/* Primary Action Button */
+[data-testid="stBaseButton-primary"],
+.stButton > button[kind="primary"] {
+    background-color: var(--avian-primary);
+    border-color: var(--avian-primary);
+    color: #FFFFFF;
+    font-weight: 650;
+    border-radius: 10px;
+    padding: 0.55rem 1.1rem;
+    transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+[data-testid="stBaseButton-primary"]:hover,
+.stButton > button[kind="primary"]:hover {
+    background-color: var(--avian-primary-hover);
+    border-color: var(--avian-primary-hover);
+    color: #FFFFFF;
+}
+
+/* Section & Upload Cards */
+.avian-panel {
+    background-color: var(--avian-surface);
+    border: 1px solid var(--avian-border);
+    border-radius: 14px;
+    padding: 1.15rem 1.25rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 10px rgba(31, 41, 51, 0.03);
+}
+
+.avian-panel-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--avian-primary);
+    margin: 0 0 0.25rem 0;
+}
+
+.avian-panel-desc {
+    font-size: 0.88rem;
+    color: var(--avian-text-muted);
+    margin: 0 0 0.7rem 0;
+    line-height: 1.45;
+}
+
+.avian-format-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin-top: 0.25rem;
+}
+
+.avian-format-tag {
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--avian-secondary);
+    background-color: var(--avian-surface-muted);
+    border: 1px solid var(--avian-border);
+    border-radius: 6px;
+    padding: 0.16rem 0.48rem;
+}
+
+/* File Uploader Polish */
+[data-testid="stFileUploader"] section {
+    background-color: var(--avian-surface);
+    border: 1.5px dashed #9EB3A5;
+    border-radius: 12px;
+    padding: 1rem;
+}
+
+[data-testid="stFileUploader"] section:hover {
+    border-color: var(--avian-primary);
+    background-color: #F4F8F5;
+}
+
+/* ============================================================
+   Image Prediction: Image Preview & Native Fullscreen Button
+   ============================================================ */
+
+/* Normal Image Preview Box */
+.st-key-image_preview_box {
+    position: relative !important;
+}
+
+.st-key-image_preview_box [data-testid="stImage"] {
+    position: relative !important;
+    border-radius: 12px !important;
+    overflow: hidden !important;
+    background-color: var(--avian-surface) !important;
+    border: 1px solid var(--avian-border) !important;
+    box-shadow: 0 2px 10px rgba(31, 41, 51, 0.04) !important;
+}
+
+.st-key-image_preview_box [data-testid="stImage"] img {
+    border-radius: 12px 12px 0 0 !important;
+    display: block !important;
+    max-height: 420px !important;
+    object-fit: contain !important;
+    background-color: #F8FAF9 !important;
+}
+
+.st-key-image_preview_box [data-testid="stImage"] [data-testid="stCaptionContainer"] {
+    padding: 0.45rem 0.75rem !important;
+    font-size: 0.84rem !important;
+    color: var(--avian-text-muted) !important;
+    background-color: var(--avian-surface) !important;
+    border-top: 1px solid var(--avian-border) !important;
+    font-weight: 500 !important;
+    margin: 0 !important;
+}
+
+/* Position native Streamlit fullscreen button neatly inside top-right corner of image preview */
+.st-key-image_preview_box [data-testid="stElementToolbar"] {
+    position: absolute !important;
+    top: 10px !important;
+    right: 10px !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    z-index: 25 !important;
+    background: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: none !important;
+}
+
+.st-key-image_preview_box [data-testid="stElementToolbarButtonContainer"] {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 0 !important;
+    background: transparent !important;
+    border: none !important;
+}
+
+.st-key-image_preview_box [data-testid="stElementToolbarButton"] button {
+    width: 34px !important;
+    height: 34px !important;
+    min-width: 34px !important;
+    min-height: 34px !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border-radius: 8px !important;
+    background: rgba(255, 255, 255, 0.92) !important;
+    backdrop-filter: blur(8px) !important;
+    -webkit-backdrop-filter: blur(8px) !important;
+    border: 1px solid rgba(27, 67, 50, 0.22) !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.16) !important;
+    color: #1B4332 !important;
+    cursor: pointer !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    transition: background-color 150ms ease, transform 150ms ease, box-shadow 150ms ease !important;
+}
+
+.st-key-image_preview_box [data-testid="stElementToolbarButton"] button:hover {
+    background-color: #E8F0EB !important;
+    color: #1B4332 !important;
+    transform: scale(1.08) !important;
+    box-shadow: 0 4px 12px rgba(27, 67, 50, 0.24) !important;
+}
+
+.st-key-image_preview_box [data-testid="stElementToolbarButton"] button:active {
+    transform: scale(0.96) !important;
+}
+
+.st-key-image_preview_box [data-testid="stElementToolbarButtonIcon"] {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    color: #1B4332 !important;
+}
+
+/* 2 & 3. Image Prediction Filename Container & Enlarged X Button */
+.st-key-image_upload [data-testid="stFileChips"],
+[data-testid="stFileUploader"]:has(input[accept*="jpg"]) [data-testid="stFileChips"],
+[data-testid="stFileUploader"]:has(input[accept*="png"]) [data-testid="stFileChips"] {
+    width: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 0.65rem !important;
+}
+
+.st-key-image_upload [data-testid="stFileChips"] > div:first-child,
+[data-testid="stFileUploader"]:has(input[accept*="jpg"]) [data-testid="stFileChips"] > div:first-child,
+[data-testid="stFileUploader"]:has(input[accept*="png"]) [data-testid="stFileChips"] > div:first-child {
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+}
+
+.st-key-image_upload [data-testid="stFileChip"],
+[data-testid="stFileUploader"]:has(input[accept*="jpg"]) [data-testid="stFileChip"],
+[data-testid="stFileUploader"]:has(input[accept*="png"]) [data-testid="stFileChip"] {
+    width: 100% !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    box-sizing: border-box !important;
+    padding: 0.65rem 0.9rem !important;
+    border-radius: 10px !important;
+    background-color: var(--avian-surface) !important;
+    border: 1px solid var(--avian-border) !important;
+    gap: 0.75rem !important;
+}
+
+/* Preserve filename and file-size information on the left, using horizontal space */
+.st-key-image_upload [data-testid="stFileChip"] > div:nth-child(2),
+[data-testid="stFileUploader"]:has(input[accept*="jpg"]) [data-testid="stFileChip"] > div:nth-child(2),
+[data-testid="stFileUploader"]:has(input[accept*="png"]) [data-testid="stFileChip"] > div:nth-child(2) {
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+    margin-right: 0.75rem !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+.st-key-image_upload [data-testid="stFileChipName"],
+[data-testid="stFileUploader"]:has(input[accept*="jpg"]) [data-testid="stFileChipName"],
+[data-testid="stFileUploader"]:has(input[accept*="png"]) [data-testid="stFileChipName"] {
+    font-size: 0.88rem !important;
+    font-weight: 600 !important;
+    color: var(--avian-text) !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+
+/* Enlarged, prominent Remove (X) button */
+.st-key-image_upload [data-testid="stFileChipDeleteBtn"],
+.st-key-image_upload [data-testid="stFileUploaderDeleteBtn"],
+[data-testid="stFileUploader"]:has(input[accept*="jpg"]) [data-testid="stFileChipDeleteBtn"],
+[data-testid="stFileUploader"]:has(input[accept*="png"]) [data-testid="stFileChipDeleteBtn"] {
+    align-self: center !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    flex-shrink: 0 !important;
+    margin-left: auto !important;
+}
+
+.st-key-image_upload [data-testid="stFileChipDeleteBtn"] button,
+.st-key-image_upload [data-testid="stFileUploaderDeleteBtn"] button,
+[data-testid="stFileUploader"]:has(input[accept*="jpg"]) [data-testid="stFileChipDeleteBtn"] button,
+[data-testid="stFileUploader"]:has(input[accept*="png"]) [data-testid="stFileChipDeleteBtn"] button {
+    width: 34px !important;
+    height: 34px !important;
+    min-width: 34px !important;
+    min-height: 34px !important;
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    border-radius: 50% !important;
+    cursor: pointer !important;
+    background-color: #F0F2F1 !important;
+    color: #495057 !important;
+    border: 1px solid rgba(0, 0, 0, 0.08) !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08) !important;
+    transition: background-color 150ms ease, color 150ms ease, transform 150ms ease, border-color 150ms ease !important;
+}
+
+.st-key-image_upload [data-testid="stFileChipDeleteBtn"] button:hover,
+.st-key-image_upload [data-testid="stFileUploaderDeleteBtn"] button:hover,
+[data-testid="stFileUploader"]:has(input[accept*="jpg"]) [data-testid="stFileChipDeleteBtn"] button:hover,
+[data-testid="stFileUploader"]:has(input[accept*="png"]) [data-testid="stFileChipDeleteBtn"] button:hover {
+    background-color: #FEE2E2 !important;
+    color: #DC2626 !important;
+    border-color: #FCA5A5 !important;
+    transform: scale(1.1) !important;
+}
+
+.st-key-image_upload [data-testid="stFileChipDeleteBtn"] svg,
+.st-key-image_upload [data-testid="stFileUploaderDeleteBtn"] svg,
+[data-testid="stFileUploader"]:has(input[accept*="jpg"]) [data-testid="stFileChipDeleteBtn"] svg,
+[data-testid="stFileUploader"]:has(input[accept*="png"]) [data-testid="stFileChipDeleteBtn"] svg {
+    width: 20px !important;
+    height: 20px !important;
+    fill: currentColor !important;
+}
+
+/* Media Metadata Strip */
+.avian-meta-strip {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.65rem;
+    background-color: var(--avian-surface-muted);
+    border: 1px solid var(--avian-border);
+    border-radius: 10px;
+    padding: 0.65rem 0.9rem;
+    margin-top: 0.65rem;
+    font-size: 0.82rem;
+    color: var(--avian-text-muted);
+}
+
+.avian-meta-strip strong {
+    color: var(--avian-text);
+}
+
+/* Primary Prediction Hero Card */
+.avian-result-hero {
+    background-color: var(--avian-surface);
+    border: 1px solid var(--avian-border);
+    border-top: 4px solid var(--avian-primary);
+    border-radius: 14px;
+    padding: 1.25rem 1.35rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 16px rgba(27, 67, 50, 0.06);
+}
+
+.avian-result-kicker {
+    display: inline-block;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--avian-accent);
+    background-color: var(--avian-accent-soft);
+    padding: 0.22rem 0.6rem;
+    border-radius: 999px;
+    margin-bottom: 0.6rem;
+}
+
+.avian-result-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.avian-species-name {
+    font-size: 1.65rem;
+    font-weight: 750;
+    color: var(--avian-primary);
+    margin: 0;
+    line-height: 1.2;
+}
+
+.avian-confidence-box {
+    text-align: right;
+}
+
+.avian-confidence-value {
+    font-size: 1.55rem;
+    font-weight: 750;
+    color: var(--avian-accent);
+    line-height: 1.1;
+}
+
+.avian-confidence-label {
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--avian-text-muted);
+}
+
+.avian-result-note {
+    font-size: 0.82rem;
+    color: var(--avian-text-muted);
+    margin-top: 0.7rem;
+    padding-top: 0.65rem;
+    border-top: 1px solid var(--avian-border);
+}
+
+/* Top-3 Ranked Prediction Cards */
+.avian-section-heading {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--avian-primary);
+    margin: 0.25rem 0 0.65rem 0;
+}
+
+.avian-rank-card {
+    background-color: var(--avian-surface);
+    border: 1px solid var(--avian-border);
+    border-radius: 12px;
+    padding: 0.85rem 1rem;
+    margin-bottom: 0.6rem;
+}
+
+.avian-rank-card.rank-1 {
+    border-left: 4px solid var(--avian-primary);
+    background-color: #FAFDFB;
+}
+
+.avian-rank-card.rank-2 {
+    border-left: 4px solid var(--avian-secondary);
+}
+
+.avian-rank-card.rank-3 {
+    border-left: 4px solid #94A3B8;
+}
+
+.avian-rank-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.avian-rank-left {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.avian-rank-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    border-radius: 999px;
+    font-size: 0.76rem;
+    font-weight: 700;
+    color: #FFFFFF;
+    background-color: var(--avian-secondary);
+    flex-shrink: 0;
+}
+
+.rank-1 .avian-rank-badge {
+    background-color: var(--avian-primary);
+}
+
+.rank-3 .avian-rank-badge {
+    background-color: #64748B;
+}
+
+.avian-rank-species {
+    font-size: 0.95rem;
+    font-weight: 650;
+    color: var(--avian-text);
+}
+
+.avian-rank-score {
+    font-size: 0.92rem;
+    font-weight: 700;
+    color: var(--avian-primary);
+    white-space: nowrap;
+}
+
+.avian-bar-track {
+    width: 100%;
+    height: 7px;
+    background-color: #E6ECE7;
+    border-radius: 999px;
+    overflow: hidden;
+}
+
+.avian-bar-fill {
+    height: 100%;
+    border-radius: 999px;
+    background-color: var(--avian-secondary);
+}
+
+.rank-1 .avian-bar-fill {
+    background-color: var(--avian-primary);
+}
+
+.rank-3 .avian-bar-fill {
+    background-color: #7C988A;
+}
+
+/* Bird Information Card */
+.avian-info-card {
+    background-color: var(--avian-surface);
+    border: 1px solid var(--avian-border);
+    border-radius: 14px;
+    padding: 1.1rem 1.25rem;
+    margin-top: 0.85rem;
+}
+
+.avian-info-text {
+    font-size: 0.92rem;
+    line-height: 1.6;
+    color: var(--avian-text);
+    margin: 0;
+}
+
+.avian-info-link {
+    display: inline-block;
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--avian-primary);
+    text-decoration: none;
+}
+
+.avian-info-link:hover {
+    text-decoration: underline;
+}
+
+/* Empty & Ready States */
+.avian-empty-state {
+    background-color: var(--avian-surface);
+    border: 1px dashed #B9C8BD;
+    border-radius: 14px;
+    padding: 2rem 1.5rem;
+    text-align: center;
+    color: var(--avian-text-muted);
+}
+
+.avian-empty-title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--avian-primary);
+    margin: 0 0 0.4rem 0;
+}
+
+.avian-empty-body {
+    font-size: 0.9rem;
+    line-height: 1.5;
+    margin: 0 auto;
+    max-width: 460px;
+}
+
+/* Model Analytics Dashboard */
+.avian-analytics-section {
+    margin-bottom: 0.75rem;
+}
+
+.avian-analytics-sub {
+    font-size: 0.88rem;
+    color: var(--avian-text-muted);
+    margin: 0;
+    line-height: 1.45;
+}
+
+.avian-section-spacer {
+    height: 1.25rem;
+}
+
+.avian-overview-card {
+    background-color: var(--avian-surface);
+    border: 1px solid var(--avian-border);
+    border-top: 4px solid var(--avian-primary);
+    border-radius: 14px;
+    padding: 1.15rem 1.25rem;
+    box-shadow: 0 2px 10px rgba(31, 41, 51, 0.03);
+}
+
+.avian-overview-name {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--avian-primary);
+    margin: 0 0 0.85rem 0;
+    word-break: break-word;
+}
+
+.avian-kv-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+}
+
+.avian-kv-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.45rem 0.65rem;
+    background-color: var(--avian-surface-muted);
+    border-radius: 8px;
+    font-size: 0.86rem;
+}
+
+.avian-kv-key {
+    color: var(--avian-text-muted);
+    font-weight: 500;
+}
+
+.avian-kv-val {
+    color: var(--avian-text);
+    font-weight: 650;
+}
+
+.avian-metric-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
+    gap: 0.75rem;
+    margin-bottom: 0.9rem;
+}
+
+.avian-metric-tile {
+    background-color: var(--avian-surface);
+    border: 1px solid var(--avian-border);
+    border-left: 4px solid var(--avian-secondary);
+    border-radius: 12px;
+    padding: 0.85rem 1rem;
+}
+
+.avian-metric-label {
+    font-size: 0.76rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--avian-text-muted);
+    margin-bottom: 0.25rem;
+}
+
+.avian-metric-value {
+    font-size: 1.3rem;
+    font-weight: 750;
+    color: var(--avian-primary);
+}
+
+@media (max-width: 768px) {
+    .avian-hero {
+        padding: 1.15rem 1.2rem;
+    }
+    .avian-hero-title {
+        font-size: 1.45rem;
+    }
+    .avian-confidence-box {
+        text-align: left;
+    }
+}
+
+/* Logo */
+.avian-hero {
+    justify-content: flex-start;
+}
+
+.avian-hero-logo {
+    width: 84px;
+    height: 84px;
+    flex-shrink: 0;
+}
+
+.avian-hero-text {
+    flex: 1;
+    min-width: 240px;
+}
+
+.avian-sidebar-logo-row {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    margin-bottom: 0.5rem;
+}
+
+.avian-sidebar-logo {
+    width: 40px;
+    height: 40px;
+}
+
+.avian-sidebar-logo-row .avian-sidebar-badge {
+    margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+    .avian-hero-logo {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+/* ---- Green-only emphasis and confidence colours (v3 theme) ---- */
+:root {
+    --avian-conf-high: #1B4332;
+    --avian-conf-medium: #2D6A4F;
+    --avian-conf-medium-bar: #52B788;
+    --avian-conf-low: #52606D;
+    --avian-conf-low-bar: #A3B1AA;
+}
+
+/* Sidebar one step darker than the page */
+[data-testid="stSidebar"] {
+    background-color: #E3EBE4;
+}
+
+/* Main action button: solid forest green, clearly the strongest element */
+[data-testid="stBaseButton-primary"],
+.stButton > button[kind="primary"] {
+    background-color: #1B4332;
+    border-color: #1B4332;
+    color: #FFFFFF;
+    font-weight: 700;
+    box-shadow: 0 3px 10px rgba(27, 67, 50, 0.22);
+}
+
+[data-testid="stBaseButton-primary"]:hover,
+.stButton > button[kind="primary"]:hover {
+    background-color: #2D6A4F;
+    border-color: #2D6A4F;
+    color: #FFFFFF;
+}
+
+[data-testid="stBaseButton-primary"] p {
+    color: #FFFFFF;
+    font-weight: 700;
+}
+
+/* Top-1 prediction: a slightly tinted card */
+.avian-rank-card.rank-1 {
+    background-color: #F1F7F3;
+}
+
+/* Confidence levels */
+.conf-high .avian-confidence-value,
+.conf-high .avian-confidence-label,
+.conf-high .avian-rank-score {
+    color: var(--avian-conf-high);
+}
+
+.conf-medium .avian-confidence-value,
+.conf-medium .avian-confidence-label,
+.conf-medium .avian-rank-score {
+    color: var(--avian-conf-medium);
+}
+
+.conf-low .avian-confidence-value,
+.conf-low .avian-confidence-label,
+.conf-low .avian-rank-score {
+    color: var(--avian-conf-low);
+}
+
+.avian-rank-card.conf-high .avian-bar-fill {
+    background-color: var(--avian-conf-high);
+}
+
+.avian-rank-card.conf-medium .avian-bar-fill {
+    background-color: var(--avian-conf-medium-bar);
+}
+
+.avian-rank-card.conf-low .avian-bar-fill {
+    background-color: var(--avian-conf-low-bar);
+}

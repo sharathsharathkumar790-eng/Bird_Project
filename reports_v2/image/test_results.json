@@ -1,0 +1,27 @@
+{
+  "test_samples": 1769,
+  "test_accuracy": 0.8332,
+  "test_top5_accuracy": 0.9587,
+  "test_loss": 1.7113,
+  "test_accuracy_tta": 0.8361,
+  "test_top5_accuracy_tta": 0.9599,
+  "correct_tta": 1479,
+  "macro_precision": 0.8455,
+  "macro_recall": 0.8371,
+  "macro_f1": 0.833,
+  "weighted_f1": 0.8324,
+  "species_f1_ge_0.80": 147,
+  "species_f1_lt_0.50": 8,
+  "best_epoch_global": 50,
+  "best_epoch_stage": 2,
+  "best_val_accuracy": 0.8484,
+  "train_accuracy_at_best": 0.9455,
+  "epochs_run": {
+    "stage1": 15,
+    "stage2": 35,
+    "stage3": 5
+  },
+  "inference_ms_per_image_gpu": 9.64,
+  "model_file_MB": 85.71,
+  "total_params": 4722312
+}

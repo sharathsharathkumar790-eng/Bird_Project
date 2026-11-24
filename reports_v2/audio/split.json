@@ -1,0 +1,7 @@
+{
+  "train": 738,
+  "test": 96,
+  "val": 96,
+  "seed": 42,
+  "ratio": "~80/10/10 per species, by recording (min 1 per set)"
+}

@@ -1,0 +1,32 @@
+{
+  "backbone": "MobileNetV2 (ImageNet weights)",
+  "alpha": 1.4,
+  "img_size": 320,
+  "mixup_alpha": 0.2,
+  "batch_size": 32,
+  "mixed_precision": true,
+  "augmentation": "RandomFlip(horizontal), RandomRotation(0.08), RandomZoom(0.15), RandomTranslation(0.1,0.1), RandomContrast(0.15, value_range=(-1,1))",
+  "head": "GlobalAveragePooling2D -> Dropout(0.4) -> Dense(num_classes, softmax, L2 1e-4)",
+  "loss": "CategoricalCrossentropy(label_smoothing=0.1)",
+  "optimizer": "Adam",
+  "stage1": {
+    "trainable": "head only",
+    "lr": 0.001,
+    "max_epochs": 15,
+    "early_stop_patience": 4
+  },
+  "stage2": {
+    "trainable": "top 60 backbone layers (BatchNorm frozen)",
+    "lr": "cosine 1e-4 -> 1e-6",
+    "max_epochs": 35,
+    "early_stop_patience": 8
+  },
+  "stage3": {
+    "trainable": "all backbone layers (BatchNorm frozen)",
+    "lr": "cosine 1e-5 -> 1e-7",
+    "max_epochs": 10,
+    "early_stop_patience": 4
+  },
+  "test_time_augmentation": "mean of original + horizontally flipped image",
+  "seed": 42
+}

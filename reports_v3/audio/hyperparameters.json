@@ -1,0 +1,74 @@
+{
+ "dataset": "BirdCLEF 2022 (Kaggle), Xeno-canto recordings",
+ "species": 70,
+ "species_rule": "species with at least 50 recordings",
+ "max_per_species": 300,
+ "split": "80/10/10 per species, by recording, seed 42",
+ "recordings": {
+  "train": 9056,
+  "val": 1138,
+  "test": 1138
+ },
+ "windows": {
+  "train": 35001,
+  "val": 7559,
+  "test": 7304
+ },
+ "sample_rate": 32000,
+ "window_s": 5.0,
+ "hop_s": 2.5,
+ "max_seconds": 60,
+ "energy_keep_ratio": 0.1,
+ "max_windows_train": 5,
+ "max_windows_eval": 12,
+ "mel": {
+  "n_mels": 128,
+  "n_fft": 2048,
+  "hop_length": 512,
+  "fmin": 50,
+  "fmax": 14000,
+  "db": "power_to_db(ref=max, top_db=80) scaled to 0..255"
+ },
+ "model_input": "224x224x3 (spectrogram resized, copied to 3 channels, x/127.5-1)",
+ "backbone": "MobileNetV2 (ImageNet weights)",
+ "alpha": 1.4,
+ "batch_size": 32,
+ "augmentation": "SpecAugment: time shift +-30 frames, gain +-6 dB, 2 freq masks (<=16 bands), 2 time masks (<=25 frames)",
+ "mixup_alpha": 0.2,
+ "label_smoothing": 0.1,
+ "class_weights": "sqrt inverse frequency",
+ "head": "GlobalAveragePooling2D -> Dropout(0.4) -> Dense(softmax, L2 1e-4)",
+ "stages": {
+  "1": {
+   "name": "head only",
+   "unfreeze": 0,
+   "lr": 0.001,
+   "lr_end": 0.001,
+   "epochs": 15,
+   "patience": 5
+  },
+  "2": {
+   "name": "top 60 backbone layers",
+   "unfreeze": 60,
+   "lr": 0.0001,
+   "lr_end": 1e-06,
+   "epochs": 35,
+   "patience": 8
+  },
+  "3": {
+   "name": "all backbone layers",
+   "unfreeze": -1,
+   "lr": 1e-05,
+   "lr_end": 1e-07,
+   "epochs": 10,
+   "patience": 4
+  }
+ },
+ "stage_minutes": {
+  "1": 13.1,
+  "2": 39.6,
+  "3": 14.8
+ },
+ "model_selection": "best per-recording validation accuracy",
+ "total_params": 4489222
+}

@@ -1,0 +1,49 @@
+{
+  "dataset": "Kaggle: Sound of 114 Species of Birds Till 2022 (xeno-canto recordings)",
+  "species_rule": "species with at least 20 recordings",
+  "min_recordings": 20,
+  "split": "80/10/10 stratified by species, split by recording, seed 42",
+  "sample_rate": 22050,
+  "window_s": 5.0,
+  "hop_s": 2.5,
+  "max_seconds_per_file": 180,
+  "energy_keep_ratio": 0.1,
+  "max_windows_train": 8,
+  "max_windows_eval": 12,
+  "mel": {
+    "n_mels": 128,
+    "n_fft": 2048,
+    "hop_length": 512,
+    "db_scale": "power_to_db(ref=max), clipped to 80 dB"
+  },
+  "model_input": "224x224x3 (spectrogram resized, copied to 3 channels, scaled to [-1,1])",
+  "backbone": "MobileNetV2 (ImageNet weights)",
+  "alpha": 1.4,
+  "batch_size": 32,
+  "mixed_precision": true,
+  "augmentation": "SpecAugment: 2 frequency masks (<=16 bands), 2 time masks (<=25 frames), time shift (+-30 frames), gain (+-15)",
+  "mixup_alpha": 0.2,
+  "head": "GlobalAveragePooling2D -> Dropout(0.4) -> Dense(num_classes, softmax, L2 1e-4)",
+  "loss": "CategoricalCrossentropy(label_smoothing=0.1)",
+  "optimizer": "Adam",
+  "stage1": {
+    "trainable": "head only",
+    "lr": 0.001,
+    "max_epochs": 20,
+    "early_stop_patience": 6
+  },
+  "stage2": {
+    "trainable": "top 60 backbone layers (BatchNorm frozen)",
+    "lr": "cosine 1e-4 -> 1e-6",
+    "max_epochs": 40,
+    "early_stop_patience": 10
+  },
+  "stage3": {
+    "trainable": "all backbone layers (BatchNorm frozen)",
+    "lr": "cosine 1e-5 -> 1e-7",
+    "max_epochs": 10,
+    "early_stop_patience": 5
+  },
+  "model_selection": "best recording-level validation accuracy (mean of window predictions)",
+  "seed": 42
+}

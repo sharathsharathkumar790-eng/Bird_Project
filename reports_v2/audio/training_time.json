@@ -1,0 +1,8 @@
+{
+  "stage1_trainable_params": 105787,
+  "stage1_minutes": 3.0,
+  "stage2_trainable_params": 3883787,
+  "stage2_minutes": 7.7,
+  "stage3_trainable_params": 4373627,
+  "stage3_minutes": 4.2
+}

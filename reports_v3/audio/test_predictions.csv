@@ -1,0 +1,1139 @@
+file,true,predicted,confidence
+train_audio/amewig/XC379016.ogg,American Wigeon,Mallard,0.6314
+train_audio/amewig/XC335125.ogg,American Wigeon,American Wigeon,0.2612
+train_audio/amewig/XC305022.ogg,American Wigeon,Ruddy Turnstone,0.3973
+train_audio/amewig/XC172890.ogg,American Wigeon,American Wigeon,0.613
+train_audio/amewig/XC152873.ogg,American Wigeon,Western Meadowlark,0.2247
+train_audio/arcter/XC378023.ogg,Arctic Tern,Caspian Tern,0.3655
+train_audio/arcter/XC148887.ogg,Arctic Tern,Arctic Tern,0.7607
+train_audio/arcter/XC484479.ogg,Arctic Tern,Arctic Tern,0.9144
+train_audio/arcter/XC476533.ogg,Arctic Tern,Arctic Tern,0.9168
+train_audio/arcter/XC139659.ogg,Arctic Tern,Arctic Tern,0.5428
+train_audio/arcter/XC381239.ogg,Arctic Tern,Arctic Tern,0.8975
+train_audio/arcter/XC584451.ogg,Arctic Tern,Dunlin,0.4694
+train_audio/arcter/XC664034.ogg,Arctic Tern,Dunlin,0.2462
+train_audio/arcter/XC652198.ogg,Arctic Tern,Arctic Tern,0.1784
+train_audio/arcter/XC584615.ogg,Arctic Tern,Arctic Tern,0.9427
+train_audio/arcter/XC597548.ogg,Arctic Tern,Arctic Tern,0.8811
+train_audio/arcter/XC139657.ogg,Arctic Tern,Arctic Tern,0.7287
+train_audio/arcter/XC396641.ogg,Arctic Tern,Arctic Tern,0.5348
+train_audio/arcter/XC287765.ogg,Arctic Tern,Arctic Tern,0.9265
+train_audio/arcter/XC487343.ogg,Arctic Tern,Arctic Tern,0.5431
+train_audio/arcter/XC370355.ogg,Arctic Tern,Arctic Tern,0.6927
+train_audio/arcter/XC656571.ogg,Arctic Tern,Arctic Tern,0.6986
+train_audio/arcter/XC396640.ogg,Arctic Tern,Arctic Tern,0.4349
+train_audio/arcter/XC584618.ogg,Arctic Tern,Arctic Tern,0.5923
+train_audio/arcter/XC25068.ogg,Arctic Tern,Arctic Tern,0.5308
+train_audio/brnowl/XC580738.ogg,Barn Owl,Barn Owl,0.8086
+train_audio/brnowl/XC585592.ogg,Barn Owl,Barn Owl,0.8036
+train_audio/brnowl/XC587521.ogg,Barn Owl,Barn Owl,0.8967
+train_audio/brnowl/XC593245.ogg,Barn Owl,Gambel's Quail,0.1599
+train_audio/brnowl/XC567077.ogg,Barn Owl,Barn Owl,0.7708
+train_audio/brnowl/XC542128.ogg,Barn Owl,Barn Owl,0.9914
+train_audio/brnowl/XC406760.ogg,Barn Owl,Barn Owl,0.4284
+train_audio/brnowl/XC502756.ogg,Barn Owl,Barn Owl,0.5071
+train_audio/brnowl/XC649696.ogg,Barn Owl,Barn Owl,0.845
+train_audio/brnowl/XC532130.ogg,Barn Owl,Barn Owl,0.3272
+train_audio/brnowl/XC121413.ogg,Barn Owl,Barn Owl,0.2447
+train_audio/brnowl/XC623842.ogg,Barn Owl,Barn Owl,0.9588
+train_audio/brnowl/XC149279.ogg,Barn Owl,Osprey,0.1283
+train_audio/brnowl/XC476819.ogg,Barn Owl,Barn Owl,0.7631
+train_audio/brnowl/XC664006.ogg,Barn Owl,Barn Owl,0.8137
+train_audio/brnowl/XC370711.ogg,Barn Owl,Barn Owl,0.884
+train_audio/brnowl/XC149264.ogg,Barn Owl,Barn Owl,0.4571
+train_audio/brnowl/XC604085.ogg,Barn Owl,Barn Owl,0.5845
+train_audio/brnowl/XC637786.ogg,Barn Owl,Barn Owl,0.9498
+train_audio/brnowl/XC143446.ogg,Barn Owl,Barn Owl,0.9118
+train_audio/brnowl/XC186612.ogg,Barn Owl,Barn Owl,0.8676
+train_audio/brnowl/XC447061.ogg,Barn Owl,Barn Owl,0.8571
+train_audio/brnowl/XC540744.ogg,Barn Owl,Barn Owl,0.8691
+train_audio/brnowl/XC638225.ogg,Barn Owl,Barn Owl,0.6794
+train_audio/brnowl/XC505587.ogg,Barn Owl,Barn Owl,0.4871
+train_audio/brnowl/XC603189.ogg,Barn Owl,Barn Owl,0.3489
+train_audio/brnowl/XC616198.ogg,Barn Owl,Barn Owl,0.7442
+train_audio/brnowl/XC544496.ogg,Barn Owl,Barn Owl,0.9343
+train_audio/brnowl/XC535968.ogg,Barn Owl,Barn Owl,0.9555
+train_audio/brnowl/XC552643.ogg,Barn Owl,Barn Owl,0.5359
+train_audio/belkin1/XC315210.ogg,Belted Kingfisher,Belted Kingfisher,0.891
+train_audio/belkin1/XC624472.ogg,Belted Kingfisher,Belted Kingfisher,0.7416
+train_audio/belkin1/XC116055.ogg,Belted Kingfisher,Belted Kingfisher,0.1541
+train_audio/belkin1/XC624466.ogg,Belted Kingfisher,Belted Kingfisher,0.9067
+train_audio/belkin1/XC132873.ogg,Belted Kingfisher,Belted Kingfisher,0.65
+train_audio/belkin1/XC116054.ogg,Belted Kingfisher,Belted Kingfisher,0.8313
+train_audio/belkin1/XC599549.ogg,Belted Kingfisher,Belted Kingfisher,0.6167
+train_audio/belkin1/XC599554.ogg,Belted Kingfisher,Belted Kingfisher,0.945
+train_audio/belkin1/XC457192.ogg,Belted Kingfisher,Belted Kingfisher,0.2311
+train_audio/belkin1/XC395194.ogg,Belted Kingfisher,Belted Kingfisher,0.7497
+train_audio/bkbplo/XC294373.ogg,Black-bellied Plover,Black-bellied Plover,0.8724
+train_audio/bkbplo/XC505056.ogg,Black-bellied Plover,Black-bellied Plover,0.7757
+train_audio/bkbplo/XC441251.ogg,Black-bellied Plover,Black-bellied Plover,0.9449
+train_audio/bkbplo/XC526407.ogg,Black-bellied Plover,Black-bellied Plover,0.8188
+train_audio/bkbplo/XC178195.ogg,Black-bellied Plover,Black-bellied Plover,0.8422
+train_audio/bkbplo/XC591654.ogg,Black-bellied Plover,Black-bellied Plover,0.7931
+train_audio/bkbplo/XC636753.ogg,Black-bellied Plover,Black-bellied Plover,0.3997
+train_audio/bkbplo/XC150223.ogg,Black-bellied Plover,Black-bellied Plover,0.8607
+train_audio/bkbplo/XC598721.ogg,Black-bellied Plover,Black-bellied Plover,0.5066
+train_audio/bkbplo/XC362586.ogg,Black-bellied Plover,Black-bellied Plover,0.7085
+train_audio/bkbplo/XC444674.ogg,Black-bellied Plover,Black-bellied Plover,0.872
+train_audio/bkbplo/XC444669.ogg,Black-bellied Plover,Black-bellied Plover,0.8359
+train_audio/bkbplo/XC526288.ogg,Black-bellied Plover,Black-bellied Plover,0.3158
+train_audio/bkbplo/XC500662.ogg,Black-bellied Plover,Black-bellied Plover,0.7259
+train_audio/bkbplo/XC145310.ogg,Black-bellied Plover,Black-bellied Plover,0.9527
+train_audio/bkbplo/XC155048.ogg,Black-bellied Plover,Black-bellied Plover,0.7999
+train_audio/bkbplo/XC291017.ogg,Black-bellied Plover,Black-bellied Plover,0.8758
+train_audio/bkbplo/XC294375.ogg,Black-bellied Plover,Black-bellied Plover,0.415
+train_audio/bkbplo/XC456227.ogg,Black-bellied Plover,Black-bellied Plover,0.8932
+train_audio/bkbplo/XC559201.ogg,Black-bellied Plover,Black-bellied Plover,0.8777
+train_audio/bkbplo/XC198726.ogg,Black-bellied Plover,Black-bellied Plover,0.8903
+train_audio/bkbplo/XC593410.ogg,Black-bellied Plover,Black-bellied Plover,0.6052
+train_audio/bkbplo/XC266559.ogg,Black-bellied Plover,Dunlin,0.227
+train_audio/bkbplo/XC150227.ogg,Black-bellied Plover,Black-bellied Plover,0.8814
+train_audio/bkbplo/XC534871.ogg,Black-bellied Plover,Black-bellied Plover,0.8716
+train_audio/bkbplo/XC455419.ogg,Black-bellied Plover,Black-bellied Plover,0.7952
+train_audio/bkbplo/XC549027.ogg,Black-bellied Plover,Black-bellied Plover,0.8579
+train_audio/bcnher/XC587409.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.883
+train_audio/bcnher/XC665567.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.9177
+train_audio/bcnher/XC540060.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.3438
+train_audio/bcnher/XC304259.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.7909
+train_audio/bcnher/XC123687.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.7001
+train_audio/bcnher/XC257330.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.7037
+train_audio/bcnher/XC605735.ogg,Black-crowned Night-Heron,Greater White-fronted Goose,0.1459
+train_audio/bcnher/XC558260.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.6874
+train_audio/bcnher/XC549340.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.9462
+train_audio/bcnher/XC452831.ogg,Black-crowned Night-Heron,Great Blue Heron,0.5542
+train_audio/bcnher/XC615041.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.9004
+train_audio/bcnher/XC541691.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.4508
+train_audio/bcnher/XC557296.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.914
+train_audio/bcnher/XC550741.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.7239
+train_audio/bcnher/XC579875.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.324
+train_audio/bcnher/XC293553.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.9169
+train_audio/bcnher/XC653411.ogg,Black-crowned Night-Heron,Dunlin,0.3946
+train_audio/bcnher/XC572835.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.8659
+train_audio/bcnher/XC508101.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.8299
+train_audio/bcnher/XC542000.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.9083
+train_audio/bcnher/XC237483.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.8713
+train_audio/bcnher/XC588336.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.6591
+train_audio/bcnher/XC614900.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.0801
+train_audio/bcnher/XC661082.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.723
+train_audio/bcnher/XC257328.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.6049
+train_audio/bcnher/XC666049.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.7611
+train_audio/bcnher/XC601227.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.518
+train_audio/bcnher/XC557280.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.6871
+train_audio/bcnher/XC542993.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.8522
+train_audio/bcnher/XC544356.ogg,Black-crowned Night-Heron,Black-crowned Night-Heron,0.8086
+train_audio/bknsti/XC149983.ogg,Black-necked Stilt,Black-necked Stilt,0.7143
+train_audio/bknsti/XC217973.ogg,Black-necked Stilt,Black-necked Stilt,0.8727
+train_audio/bknsti/XC575068.ogg,Black-necked Stilt,Black-necked Stilt,0.6657
+train_audio/bknsti/XC416421.ogg,Black-necked Stilt,Black-necked Stilt,0.8825
+train_audio/bknsti/XC292679.ogg,Black-necked Stilt,Black-necked Stilt,0.8381
+train_audio/bknsti/XC441313.ogg,Black-necked Stilt,Black-necked Stilt,0.2713
+train_audio/bknsti/XC133081.ogg,Black-necked Stilt,Ring-billed Gull,0.1902
+train_audio/bknsti/XC607836.ogg,Black-necked Stilt,Black-necked Stilt,0.8187
+train_audio/bknsti/XC157644.ogg,Black-necked Stilt,Black-necked Stilt,0.9552
+train_audio/bknsti/XC492143.ogg,Black-necked Stilt,Common Gallinule,0.2774
+train_audio/bknsti/XC492065.ogg,Black-necked Stilt,Black-necked Stilt,0.9345
+train_audio/bknsti/XC591674.ogg,Black-necked Stilt,Black-crowned Night-Heron,0.0937
+train_audio/bknsti/XC217975.ogg,Black-necked Stilt,Black-necked Stilt,0.8887
+train_audio/bknsti/XC400731.ogg,Black-necked Stilt,Mitred Parakeet,0.1446
+train_audio/bknsti/XC385291.ogg,Black-necked Stilt,Black-necked Stilt,0.8106
+train_audio/bknsti/XC664283.ogg,Black-necked Stilt,Black-necked Stilt,0.3705
+train_audio/bknsti/XC407350.ogg,Black-necked Stilt,Black-necked Stilt,0.5943
+train_audio/bknsti/XC257544.ogg,Black-necked Stilt,Laughing Gull,0.1569
+train_audio/buwtea/XC101288.ogg,Blue-winged Teal,Canada Goose,0.2504
+train_audio/buwtea/XC16917.ogg,Blue-winged Teal,Blue-winged Teal,0.4716
+train_audio/buwtea/XC45479.ogg,Blue-winged Teal,Blue-winged Teal,0.7281
+train_audio/buwtea/XC612616.ogg,Blue-winged Teal,Gadwall,0.1904
+train_audio/buwtea/XC131462.ogg,Blue-winged Teal,Northern Pintail,0.495
+train_audio/bongul/XC516230.ogg,Bonaparte's Gull,Bonaparte's Gull,0.9623
+train_audio/bongul/XC511146.ogg,Bonaparte's Gull,Bonaparte's Gull,0.1776
+train_audio/bongul/XC292859.ogg,Bonaparte's Gull,Bonaparte's Gull,0.3912
+train_audio/bongul/XC523643.ogg,Bonaparte's Gull,Bonaparte's Gull,0.2884
+train_audio/bongul/XC27545.ogg,Bonaparte's Gull,Mallard,0.2454
+train_audio/bongul/XC188788.ogg,Bonaparte's Gull,Bonaparte's Gull,0.3858
+train_audio/brant/XC526221.ogg,Brant,Brant,0.1084
+train_audio/brant/XC629712.ogg,Brant,Brant,0.2063
+train_audio/brant/XC600218.ogg,Brant,Brant,0.3688
+train_audio/brant/XC552894.ogg,Brant,Brant,0.7765
+train_audio/brant/XC402991.ogg,Brant,Brant,0.5839
+train_audio/brant/XC526220.ogg,Brant,Mallard,0.3823
+train_audio/brant/XC161414.ogg,Brant,Brant,0.6196
+train_audio/brant/XC395838.ogg,Brant,Brant,0.589
+train_audio/brant/XC294371.ogg,Brant,Northern Shoveler,0.1027
+train_audio/brant/XC163344.ogg,Brant,Brant,0.9442
+train_audio/brant/XC540716.ogg,Brant,Brant,0.5234
+train_audio/brant/XC358369.ogg,Brant,Brant,0.423
+train_audio/brant/XC397450.ogg,Brant,Brant,0.9024
+train_audio/brant/XC614171.ogg,Brant,Brant,0.9382
+train_audio/calqua/XC471670.ogg,California Quail,California Quail,0.7062
+train_audio/calqua/XC153452.ogg,California Quail,California Quail,0.597
+train_audio/calqua/XC471666.ogg,California Quail,Northern Shoveler,0.637
+train_audio/calqua/XC481129.ogg,California Quail,California Quail,0.2729
+train_audio/calqua/XC198893.ogg,California Quail,Greater White-fronted Goose,0.383
+train_audio/calqua/XC538546.ogg,California Quail,California Quail,0.8902
+train_audio/calqua/XC297460.ogg,California Quail,California Quail,0.4983
+train_audio/calqua/XC662041.ogg,California Quail,California Quail,0.7456
+train_audio/calqua/XC109664.ogg,California Quail,California Quail,0.771
+train_audio/calqua/XC588823.ogg,California Quail,California Quail,0.1374
+train_audio/calqua/XC430794.ogg,California Quail,California Quail,0.2956
+train_audio/calqua/XC396621.ogg,California Quail,Belted Kingfisher,0.1452
+train_audio/calqua/XC557423.ogg,California Quail,California Quail,0.8843
+train_audio/cangoo/XC317033.ogg,Canada Goose,Canada Goose,0.7404
+train_audio/cangoo/XC561694.ogg,Canada Goose,Canada Goose,0.784
+train_audio/cangoo/XC420861.ogg,Canada Goose,Brant,0.1591
+train_audio/cangoo/XC233797.ogg,Canada Goose,Canada Goose,0.8774
+train_audio/cangoo/XC173438.ogg,Canada Goose,Canada Goose,0.8937
+train_audio/cangoo/XC363864.ogg,Canada Goose,Canada Goose,0.5638
+train_audio/cangoo/XC161416.ogg,Canada Goose,Canada Goose,0.7607
+train_audio/cangoo/XC473252.ogg,Canada Goose,Canada Goose,0.6259
+train_audio/cangoo/XC536877.ogg,Canada Goose,Canada Goose,0.5894
+train_audio/cangoo/XC454609.ogg,Canada Goose,Canada Goose,0.7417
+train_audio/cangoo/XC336511.ogg,Canada Goose,Canada Goose,0.61
+train_audio/cangoo/XC490827.ogg,Canada Goose,Canada Goose,0.7017
+train_audio/cangoo/XC116062.ogg,Canada Goose,Canada Goose,0.8458
+train_audio/cangoo/XC11500.ogg,Canada Goose,Canada Goose,0.3607
+train_audio/cangoo/XC538715.ogg,Canada Goose,Canada Goose,0.8367
+train_audio/cangoo/XC445218.ogg,Canada Goose,Canada Goose,0.8922
+train_audio/cangoo/XC534723.ogg,Canada Goose,Canada Goose,0.758
+train_audio/cangoo/XC217211.ogg,Canada Goose,Canada Goose,0.9109
+train_audio/cangoo/XC538161.ogg,Canada Goose,Canada Goose,0.4459
+train_audio/cangoo/XC608150.ogg,Canada Goose,Canada Goose,0.4172
+train_audio/cangoo/XC601836.ogg,Canada Goose,Canada Goose,0.8911
+train_audio/cangoo/XC344784.ogg,Canada Goose,Canada Goose,0.8435
+train_audio/cangoo/XC661966.ogg,Canada Goose,Canada Goose,0.896
+train_audio/cangoo/XC638883.ogg,Canada Goose,Canada Goose,0.8678
+train_audio/cangoo/XC549002.ogg,Canada Goose,Greater White-fronted Goose,0.7202
+train_audio/cangoo/XC112507.ogg,Canada Goose,Canada Goose,0.3023
+train_audio/cangoo/XC400638.ogg,Canada Goose,Canada Goose,0.7049
+train_audio/cangoo/XC637012.ogg,Canada Goose,Canada Goose,0.9209
+train_audio/cangoo/XC137764.ogg,Canada Goose,Canada Goose,0.943
+train_audio/cangoo/XC543320.ogg,Canada Goose,Canada Goose,0.8807
+train_audio/caster1/XC432945.ogg,Caspian Tern,Mallard,0.3715
+train_audio/caster1/XC578610.ogg,Caspian Tern,Caspian Tern,0.4397
+train_audio/caster1/XC631575.ogg,Caspian Tern,Caspian Tern,0.2662
+train_audio/caster1/XC449721.ogg,Caspian Tern,Caspian Tern,0.8394
+train_audio/caster1/XC169792.ogg,Caspian Tern,Caspian Tern,0.5508
+train_audio/caster1/XC324717.ogg,Caspian Tern,Caspian Tern,0.4638
+train_audio/caster1/XC658127.ogg,Caspian Tern,Caspian Tern,0.3859
+train_audio/caster1/XC317154.ogg,Caspian Tern,Caspian Tern,0.6243
+train_audio/caster1/XC528962.ogg,Caspian Tern,Caspian Tern,0.8699
+train_audio/caster1/XC498895.ogg,Caspian Tern,Caspian Tern,0.6548
+train_audio/caster1/XC452955.ogg,Caspian Tern,Caspian Tern,0.7355
+train_audio/caster1/XC485505.ogg,Caspian Tern,Caspian Tern,0.868
+train_audio/caster1/XC610048.ogg,Caspian Tern,Caspian Tern,0.6727
+train_audio/caster1/XC499955.ogg,Caspian Tern,Caspian Tern,0.9911
+train_audio/caster1/XC118277.ogg,Caspian Tern,Caspian Tern,0.2827
+train_audio/caster1/XC538079.ogg,Caspian Tern,Eurasian Skylark,0.207
+train_audio/caster1/XC603051.ogg,Caspian Tern,Caspian Tern,0.5332
+train_audio/caster1/XC119938.ogg,Caspian Tern,Caspian Tern,0.4932
+train_audio/categr/XC257319.ogg,Cattle Egret,Cattle Egret,0.341
+train_audio/categr/XC297698.ogg,Cattle Egret,Cattle Egret,0.3998
+train_audio/categr/XC478387.ogg,Cattle Egret,Cattle Egret,0.6876
+train_audio/categr/XC304258.ogg,Cattle Egret,Black-crowned Night-Heron,0.4426
+train_audio/categr/XC410973.ogg,Cattle Egret,Cattle Egret,0.6831
+train_audio/categr/XC527808.ogg,Cattle Egret,Cattle Egret,0.3813
+train_audio/categr/XC131326.ogg,Cattle Egret,Common Gallinule,0.5575
+train_audio/categr/XC246912.ogg,Cattle Egret,Cattle Egret,0.6926
+train_audio/categr/XC113766.ogg,Cattle Egret,Black-crowned Night-Heron,0.6133
+train_audio/categr/XC174527.ogg,Cattle Egret,Black-necked Stilt,0.1212
+train_audio/categr/XC288325.ogg,Cattle Egret,Cattle Egret,0.5639
+train_audio/categr/XC304251.ogg,Cattle Egret,Cattle Egret,0.9506
+train_audio/comgal1/XC571878.ogg,Common Gallinule,Common Gallinule,0.9371
+train_audio/comgal1/XC607835.ogg,Common Gallinule,Common Gallinule,0.8681
+train_audio/comgal1/XC140781.ogg,Common Gallinule,Common Gallinule,0.3753
+train_audio/comgal1/XC323556.ogg,Common Gallinule,Common Gallinule,0.6723
+train_audio/comgal1/XC123981.ogg,Common Gallinule,Common Gallinule,0.556
+train_audio/comgal1/XC414334.ogg,Common Gallinule,Common Gallinule,0.8664
+train_audio/comgal1/XC218746.ogg,Common Gallinule,Common Gallinule,0.0891
+train_audio/comgal1/XC460760.ogg,Common Gallinule,Common Gallinule,0.7921
+train_audio/comgal1/XC186327.ogg,Common Gallinule,Common Gallinule,0.1844
+train_audio/comgal1/XC256297.ogg,Common Gallinule,Common Gallinule,0.6528
+train_audio/comgal1/XC427406.ogg,Common Gallinule,Black-crowned Night-Heron,0.1271
+train_audio/comgal1/XC114665.ogg,Common Gallinule,Peregrine Falcon,0.4272
+train_audio/comgal1/XC465599.ogg,Common Gallinule,Common Gallinule,0.293
+train_audio/comgal1/XC661035.ogg,Common Gallinule,Common Gallinule,0.212
+train_audio/comgal1/XC609184.ogg,Common Gallinule,Ring-necked Pheasant,0.5578
+train_audio/comgal1/XC297803.ogg,Common Gallinule,Common Gallinule,0.4889
+train_audio/comgal1/XC125690.ogg,Common Gallinule,Great Blue Heron,0.2533
+train_audio/comgal1/XC140503.ogg,Common Gallinule,Common Gallinule,0.897
+train_audio/commyn/XC659214.ogg,Common Myna,Common Myna,0.9021
+train_audio/commyn/XC281919.ogg,Common Myna,Common Myna,0.2403
+train_audio/commyn/XC314470.ogg,Common Myna,Common Myna,0.9498
+train_audio/commyn/XC528930.ogg,Common Myna,Common Myna,0.7377
+train_audio/commyn/XC331552.ogg,Common Myna,Common Myna,0.7236
+train_audio/commyn/XC469357.ogg,Common Myna,Common Myna,0.692
+train_audio/commyn/XC335602.ogg,Common Myna,Common Myna,0.5904
+train_audio/commyn/XC444488.ogg,Common Myna,Common Myna,0.6233
+train_audio/commyn/XC281920.ogg,Common Myna,Common Myna,0.4522
+train_audio/commyn/XC520058.ogg,Common Myna,Common Myna,0.791
+train_audio/commyn/XC185698.ogg,Common Myna,Northern Mockingbird,0.3246
+train_audio/commyn/XC447268.ogg,Common Myna,Common Myna,0.5776
+train_audio/commyn/XC184794.ogg,Common Myna,Common Myna,0.7551
+train_audio/commyn/XC194939.ogg,Common Myna,Northern Cardinal,0.1712
+train_audio/commyn/XC402380.ogg,Common Myna,Lesser Yellowlegs,0.2487
+train_audio/commyn/XC175516.ogg,Common Myna,Common Myna,0.3684
+train_audio/commyn/XC568910.ogg,Common Myna,Common Myna,0.8201
+train_audio/commyn/XC437110.ogg,Common Myna,Barn Owl,0.1468
+train_audio/commyn/XC600430.ogg,Common Myna,Common Myna,0.8513
+train_audio/commyn/XC521754.ogg,Common Myna,Common Myna,0.5519
+train_audio/commyn/XC362679.ogg,Common Myna,Common Myna,0.6374
+train_audio/comsan/XC646465.ogg,Common Sandpiper,Common Sandpiper,0.8877
+train_audio/comsan/XC424757.ogg,Common Sandpiper,Common Sandpiper,0.4194
+train_audio/comsan/XC342917.ogg,Common Sandpiper,Common Sandpiper,0.8445
+train_audio/comsan/XC585172.ogg,Common Sandpiper,Common Sandpiper,0.3847
+train_audio/comsan/XC621615.ogg,Common Sandpiper,Common Sandpiper,0.9222
+train_audio/comsan/XC151332.ogg,Common Sandpiper,Common Sandpiper,0.9414
+train_audio/comsan/XC495421.ogg,Common Sandpiper,Common Sandpiper,0.73
+train_audio/comsan/XC113844.ogg,Common Sandpiper,Common Sandpiper,0.7169
+train_audio/comsan/XC665513.ogg,Common Sandpiper,Common Sandpiper,0.7504
+train_audio/comsan/XC385909.ogg,Common Sandpiper,Common Sandpiper,0.7549
+train_audio/comsan/XC139157.ogg,Common Sandpiper,Common Sandpiper,0.5167
+train_audio/comsan/XC435528.ogg,Common Sandpiper,Common Sandpiper,0.7958
+train_audio/comsan/XC642158.ogg,Common Sandpiper,Common Sandpiper,0.8877
+train_audio/comsan/XC270237.ogg,Common Sandpiper,Common Sandpiper,0.254
+train_audio/comsan/XC580517.ogg,Common Sandpiper,Common Sandpiper,0.8283
+train_audio/comsan/XC455717.ogg,Common Sandpiper,Common Sandpiper,0.5698
+train_audio/comsan/XC587862.ogg,Common Sandpiper,Common Sandpiper,0.9103
+train_audio/comsan/XC216883.ogg,Common Sandpiper,Common Sandpiper,0.346
+train_audio/comsan/XC584750.ogg,Common Sandpiper,Arctic Tern,0.3474
+train_audio/comsan/XC554383.ogg,Common Sandpiper,Common Sandpiper,0.9206
+train_audio/comsan/XC651714.ogg,Common Sandpiper,Common Sandpiper,0.6525
+train_audio/comsan/XC636686.ogg,Common Sandpiper,Common Sandpiper,0.9177
+train_audio/comsan/XC371996.ogg,Common Sandpiper,Common Sandpiper,0.8561
+train_audio/comsan/XC324040.ogg,Common Sandpiper,Common Sandpiper,0.7147
+train_audio/comsan/XC554095.ogg,Common Sandpiper,Common Sandpiper,0.3347
+train_audio/comsan/XC338756.ogg,Common Sandpiper,Common Sandpiper,0.8396
+train_audio/comsan/XC422062.ogg,Common Sandpiper,Common Sandpiper,0.7595
+train_audio/comsan/XC554039.ogg,Common Sandpiper,Common Sandpiper,0.922
+train_audio/comsan/XC663987.ogg,Common Sandpiper,Common Sandpiper,0.8888
+train_audio/comsan/XC584479.ogg,Common Sandpiper,Arctic Tern,0.3279
+train_audio/comwax/XC474235.ogg,Common Waxbill,Common Waxbill,0.8211
+train_audio/comwax/XC502929.ogg,Common Waxbill,Common Waxbill,0.7941
+train_audio/comwax/XC454207.ogg,Common Waxbill,Common Waxbill,0.6044
+train_audio/comwax/XC590762.ogg,Common Waxbill,Common Waxbill,0.6122
+train_audio/comwax/XC464935.ogg,Common Waxbill,Common Waxbill,0.3365
+train_audio/comwax/XC207446.ogg,Common Waxbill,Common Waxbill,0.8103
+train_audio/comwax/XC291333.ogg,Common Waxbill,Common Waxbill,0.448
+train_audio/comwax/XC584949.ogg,Common Waxbill,Common Waxbill,0.8402
+train_audio/comwax/XC208067.ogg,Common Waxbill,Common Waxbill,0.3904
+train_audio/comwax/XC495152.ogg,Common Waxbill,Common Waxbill,0.6803
+train_audio/comwax/XC584947.ogg,Common Waxbill,Common Waxbill,0.1681
+train_audio/comwax/XC594503.ogg,Common Waxbill,Common Waxbill,0.8423
+train_audio/comwax/XC502672.ogg,Common Waxbill,Common Waxbill,0.9643
+train_audio/comwax/XC286898.ogg,Common Waxbill,Common Waxbill,0.7725
+train_audio/comwax/XC456707.ogg,Common Waxbill,Common Waxbill,0.5413
+train_audio/comwax/XC190169.ogg,Common Waxbill,Common Waxbill,0.7788
+train_audio/comwax/XC666121.ogg,Common Waxbill,Common Waxbill,0.5571
+train_audio/comwax/XC465144.ogg,Common Waxbill,Common Waxbill,0.8213
+train_audio/comwax/XC293407.ogg,Common Waxbill,Common Waxbill,0.6039
+train_audio/dunlin/XC584470.ogg,Dunlin,Dunlin,0.6888
+train_audio/dunlin/XC494498.ogg,Dunlin,Dunlin,0.8084
+train_audio/dunlin/XC650976.ogg,Dunlin,Dunlin,0.768
+train_audio/dunlin/XC554119.ogg,Dunlin,Dunlin,0.7052
+train_audio/dunlin/XC587596.ogg,Dunlin,Dunlin,0.5482
+train_audio/dunlin/XC597773.ogg,Dunlin,Dunlin,0.6306
+train_audio/dunlin/XC585049.ogg,Dunlin,Dunlin,0.5966
+train_audio/dunlin/XC526115.ogg,Dunlin,Dunlin,0.7989
+train_audio/dunlin/XC504788.ogg,Dunlin,Dunlin,0.2951
+train_audio/dunlin/XC657852.ogg,Dunlin,Dunlin,0.8706
+train_audio/dunlin/XC182763.ogg,Dunlin,Dunlin,0.8303
+train_audio/dunlin/XC610819.ogg,Dunlin,Dunlin,0.701
+train_audio/dunlin/XC198690.ogg,Dunlin,Dunlin,0.1956
+train_audio/dunlin/XC494213.ogg,Dunlin,Dunlin,0.7206
+train_audio/dunlin/XC559919.ogg,Dunlin,Dunlin,0.666
+train_audio/dunlin/XC496406.ogg,Dunlin,Dunlin,0.3968
+train_audio/dunlin/XC372001.ogg,Dunlin,Dunlin,0.6518
+train_audio/dunlin/XC168627.ogg,Dunlin,Western Meadowlark,0.2631
+train_audio/dunlin/XC635268.ogg,Dunlin,Dunlin,0.556
+train_audio/dunlin/XC591947.ogg,Dunlin,Dunlin,0.3563
+train_audio/dunlin/XC169169.ogg,Dunlin,Bonaparte's Gull,0.137
+train_audio/dunlin/XC647344.ogg,Dunlin,Dunlin,0.3334
+train_audio/dunlin/XC625795.ogg,Dunlin,Dunlin,0.9753
+train_audio/dunlin/XC487562.ogg,Dunlin,Dunlin,0.2896
+train_audio/dunlin/XC479285.ogg,Dunlin,Dunlin,0.6293
+train_audio/dunlin/XC587256.ogg,Dunlin,Dunlin,0.4041
+train_audio/dunlin/XC544763.ogg,Dunlin,Dunlin,0.8765
+train_audio/dunlin/XC161095.ogg,Dunlin,Dunlin,0.6117
+train_audio/dunlin/XC606070.ogg,Dunlin,Osprey,0.1579
+train_audio/dunlin/XC245658.ogg,Dunlin,Dunlin,0.2747
+train_audio/skylar/XC530616.ogg,Eurasian Skylark,Eurasian Skylark,0.3199
+train_audio/skylar/XC573358.ogg,Eurasian Skylark,Eurasian Skylark,0.6662
+train_audio/skylar/XC182197.ogg,Eurasian Skylark,Eurasian Skylark,0.7949
+train_audio/skylar/XC241900.ogg,Eurasian Skylark,Eurasian Skylark,0.8395
+train_audio/skylar/XC512593.ogg,Eurasian Skylark,Eurasian Skylark,0.9046
+train_audio/skylar/XC537563.ogg,Eurasian Skylark,Eurasian Skylark,0.8081
+train_audio/skylar/XC174987.ogg,Eurasian Skylark,Eurasian Skylark,0.8542
+train_audio/skylar/XC549675.ogg,Eurasian Skylark,Eurasian Skylark,0.7435
+train_audio/skylar/XC173012.ogg,Eurasian Skylark,Eurasian Skylark,0.8294
+train_audio/skylar/XC622639.ogg,Eurasian Skylark,Eurasian Skylark,0.9266
+train_audio/skylar/XC315680.ogg,Eurasian Skylark,Eurasian Skylark,0.8823
+train_audio/skylar/XC367372.ogg,Eurasian Skylark,Eurasian Skylark,0.684
+train_audio/skylar/XC575998.ogg,Eurasian Skylark,Eurasian Skylark,0.9703
+train_audio/skylar/XC184752.ogg,Eurasian Skylark,Eurasian Skylark,0.5412
+train_audio/skylar/XC658628.ogg,Eurasian Skylark,Eurasian Skylark,0.8839
+train_audio/skylar/XC495678.ogg,Eurasian Skylark,Eurasian Skylark,0.8664
+train_audio/skylar/XC527070.ogg,Eurasian Skylark,Eurasian Skylark,0.8801
+train_audio/skylar/XC309457.ogg,Eurasian Skylark,Eurasian Skylark,0.9396
+train_audio/skylar/XC535560.ogg,Eurasian Skylark,Pectoral Sandpiper,0.5608
+train_audio/skylar/XC465367.ogg,Eurasian Skylark,Eurasian Skylark,0.8885
+train_audio/skylar/XC635036.ogg,Eurasian Skylark,Eurasian Skylark,0.7635
+train_audio/skylar/XC538729.ogg,Eurasian Skylark,Eurasian Skylark,0.5831
+train_audio/skylar/XC301572.ogg,Eurasian Skylark,Eurasian Skylark,0.7274
+train_audio/skylar/XC625661.ogg,Eurasian Skylark,Eurasian Skylark,0.8322
+train_audio/skylar/XC290312.ogg,Eurasian Skylark,Eurasian Skylark,0.4782
+train_audio/skylar/XC172095.ogg,Eurasian Skylark,Eurasian Skylark,0.7353
+train_audio/skylar/XC362703.ogg,Eurasian Skylark,Eurasian Skylark,0.8596
+train_audio/skylar/XC131647.ogg,Eurasian Skylark,Eurasian Skylark,0.8912
+train_audio/skylar/XC318563.ogg,Eurasian Skylark,Eurasian Skylark,0.838
+train_audio/skylar/XC309632.ogg,Eurasian Skylark,Eurasian Skylark,0.9249
+train_audio/eurwig/XC650269.ogg,Eurasian Wigeon,Eurasian Wigeon,0.3527
+train_audio/eurwig/XC543220.ogg,Eurasian Wigeon,Eurasian Wigeon,0.9196
+train_audio/eurwig/XC518570.ogg,Eurasian Wigeon,Eurasian Wigeon,0.3455
+train_audio/eurwig/XC433132.ogg,Eurasian Wigeon,Eurasian Wigeon,0.6299
+train_audio/eurwig/XC294833.ogg,Eurasian Wigeon,Eurasian Wigeon,0.6122
+train_audio/eurwig/XC604596.ogg,Eurasian Wigeon,Dunlin,0.3626
+train_audio/eurwig/XC484471.ogg,Eurasian Wigeon,Dunlin,0.1971
+train_audio/eurwig/XC213610.ogg,Eurasian Wigeon,Eurasian Wigeon,0.3301
+train_audio/eurwig/XC538083.ogg,Eurasian Wigeon,Eurasian Wigeon,0.9345
+train_audio/eurwig/XC587036.ogg,Eurasian Wigeon,Eurasian Wigeon,0.3134
+train_audio/eurwig/XC546271.ogg,Eurasian Wigeon,Eurasian Wigeon,0.676
+train_audio/eurwig/XC598908.ogg,Eurasian Wigeon,Eurasian Wigeon,0.4778
+train_audio/eurwig/XC624096.ogg,Eurasian Wigeon,Eurasian Wigeon,0.8507
+train_audio/eurwig/XC628735.ogg,Eurasian Wigeon,Ruddy Turnstone,0.1485
+train_audio/eurwig/XC402127.ogg,Eurasian Wigeon,Eurasian Wigeon,0.7594
+train_audio/eurwig/XC621759.ogg,Eurasian Wigeon,Eurasian Wigeon,0.7582
+train_audio/eurwig/XC389130.ogg,Eurasian Wigeon,Eurasian Wigeon,0.2624
+train_audio/eurwig/XC200206.ogg,Eurasian Wigeon,Eurasian Wigeon,0.5059
+train_audio/eurwig/XC622104.ogg,Eurasian Wigeon,Eurasian Wigeon,0.5605
+train_audio/eurwig/XC617650.ogg,Eurasian Wigeon,Eurasian Wigeon,0.7788
+train_audio/eurwig/XC619091.ogg,Eurasian Wigeon,Eurasian Wigeon,0.9447
+train_audio/eurwig/XC631805.ogg,Eurasian Wigeon,Eurasian Wigeon,0.8042
+train_audio/eurwig/XC203981.ogg,Eurasian Wigeon,Eurasian Wigeon,0.3463
+train_audio/eurwig/XC595544.ogg,Eurasian Wigeon,Eurasian Wigeon,0.693
+train_audio/eurwig/XC596363.ogg,Eurasian Wigeon,Eurasian Wigeon,0.6342
+train_audio/eurwig/XC634543.ogg,Eurasian Wigeon,Eurasian Wigeon,0.854
+train_audio/eurwig/XC522536.ogg,Eurasian Wigeon,Eurasian Wigeon,0.492
+train_audio/eurwig/XC213611.ogg,Eurasian Wigeon,Eurasian Wigeon,0.6891
+train_audio/eurwig/XC498021.ogg,Eurasian Wigeon,Eurasian Wigeon,0.9657
+train_audio/eurwig/XC598056.ogg,Eurasian Wigeon,Eurasian Wigeon,0.6961
+train_audio/gadwal/XC648471.ogg,Gadwall,Gadwall,0.3328
+train_audio/gadwal/XC550007.ogg,Gadwall,Gadwall,0.6431
+train_audio/gadwal/XC584640.ogg,Gadwall,Gadwall,0.7739
+train_audio/gadwal/XC336824.ogg,Gadwall,Gadwall,0.9887
+train_audio/gadwal/XC340592.ogg,Gadwall,Gadwall,0.7057
+train_audio/gadwal/XC412758.ogg,Gadwall,Gadwall,0.7953
+train_audio/gadwal/XC625063.ogg,Gadwall,Gadwall,0.3591
+train_audio/gadwal/XC628399.ogg,Gadwall,Gadwall,0.507
+train_audio/gadwal/XC645830.ogg,Gadwall,Mallard,0.7516
+train_audio/gadwal/XC622760.ogg,Gadwall,Brant,0.3831
+train_audio/gadwal/XC635747.ogg,Gadwall,Gadwall,0.3568
+train_audio/gadwal/XC52464.ogg,Gadwall,Gadwall,0.4057
+train_audio/gadwal/XC660026.ogg,Gadwall,Greater White-fronted Goose,0.1416
+train_audio/gadwal/XC566190.ogg,Gadwall,Gadwall,0.8281
+train_audio/gadwal/XC396295.ogg,Gadwall,Mallard,0.4093
+train_audio/gadwal/XC554109.ogg,Gadwall,Gadwall,0.9174
+train_audio/gadwal/XC658098.ogg,Gadwall,Short-eared Owl,0.691
+train_audio/gadwal/XC608157.ogg,Gadwall,Gadwall,0.9667
+train_audio/gadwal/XC640902.ogg,Gadwall,Mallard,0.5754
+train_audio/gadwal/XC585667.ogg,Gadwall,Gadwall,0.5789
+train_audio/gadwal/XC120436.ogg,Gadwall,Mallard,0.4468
+train_audio/gadwal/XC284781.ogg,Gadwall,Western Meadowlark,0.2606
+train_audio/gadwal/XC284792.ogg,Gadwall,Mallard,0.8562
+train_audio/gadwal/XC636067.ogg,Gadwall,Gadwall,0.6438
+train_audio/gamqua/XC403279.ogg,Gambel's Quail,Gambel's Quail,0.7716
+train_audio/gamqua/XC321975.ogg,Gambel's Quail,Gambel's Quail,0.6953
+train_audio/gamqua/XC153506.ogg,Gambel's Quail,Cattle Egret,0.1243
+train_audio/gamqua/XC392969.ogg,Gambel's Quail,Common Waxbill,0.2152
+train_audio/gamqua/XC548857.ogg,Gambel's Quail,Gambel's Quail,0.6358
+train_audio/gamqua/XC317036.ogg,Gambel's Quail,Gambel's Quail,0.7648
+train_audio/gamqua/XC357979.ogg,Gambel's Quail,Gambel's Quail,0.5936
+train_audio/gamqua/XC610539.ogg,Gambel's Quail,Gambel's Quail,0.6941
+train_audio/gamqua/XC610537.ogg,Gambel's Quail,Gambel's Quail,0.5989
+train_audio/gamqua/XC153505.ogg,Gambel's Quail,Gambel's Quail,0.7412
+train_audio/gamqua/XC54720.ogg,Gambel's Quail,Gambel's Quail,0.3057
+train_audio/grbher3/XC452787.ogg,Great Blue Heron,Great Blue Heron,0.7034
+train_audio/grbher3/XC535324.ogg,Great Blue Heron,Great Blue Heron,0.75
+train_audio/grbher3/XC196154.ogg,Great Blue Heron,Great Blue Heron,0.8994
+train_audio/grbher3/XC565566.ogg,Great Blue Heron,Great Blue Heron,0.2736
+train_audio/grbher3/XC445084.ogg,Great Blue Heron,Great Blue Heron,0.2156
+train_audio/grbher3/XC346074.ogg,Great Blue Heron,Great Blue Heron,0.747
+train_audio/grbher3/XC419194.ogg,Great Blue Heron,Mallard,0.2316
+train_audio/grbher3/XC478243.ogg,Great Blue Heron,Mallard,0.2859
+train_audio/grbher3/XC393469.ogg,Great Blue Heron,Great Blue Heron,0.3789
+train_audio/grbher3/XC383027.ogg,Great Blue Heron,Great Blue Heron,0.1111
+train_audio/gwfgoo/XC506645.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.9353
+train_audio/gwfgoo/XC149379.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.4601
+train_audio/gwfgoo/XC524293.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.5199
+train_audio/gwfgoo/XC635799.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.6537
+train_audio/gwfgoo/XC506799.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.8286
+train_audio/gwfgoo/XC606259.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.2759
+train_audio/gwfgoo/XC357669.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.6562
+train_audio/gwfgoo/XC614662.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.2216
+train_audio/gwfgoo/XC604229.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.7798
+train_audio/gwfgoo/XC125993.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.8235
+train_audio/gwfgoo/XC632785.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.3847
+train_audio/gwfgoo/XC312472.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.3232
+train_audio/gwfgoo/XC432455.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.6594
+train_audio/gwfgoo/XC445767.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.6078
+train_audio/gwfgoo/XC131313.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.8754
+train_audio/gwfgoo/XC440741.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.832
+train_audio/gwfgoo/XC632779.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.8958
+train_audio/gwfgoo/XC294804.ogg,Greater White-fronted Goose,Canada Goose,0.7375
+train_audio/gwfgoo/XC366277.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.8773
+train_audio/gwfgoo/XC621826.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.8836
+train_audio/gwfgoo/XC615234.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.8513
+train_audio/gwfgoo/XC150245.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.4892
+train_audio/gwfgoo/XC595096.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.383
+train_audio/gwfgoo/XC625120.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.8865
+train_audio/gwfgoo/XC347442.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.8966
+train_audio/gwfgoo/XC610039.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.7045
+train_audio/gwfgoo/XC405449.ogg,Greater White-fronted Goose,Greater White-fronted Goose,0.933
+train_audio/gnwtea/XC169591.ogg,Green-winged Teal,Green-winged Teal,0.7785
+train_audio/gnwtea/XC432281.ogg,Green-winged Teal,Green-winged Teal,0.5185
+train_audio/gnwtea/XC521772.ogg,Green-winged Teal,Green-winged Teal,0.8169
+train_audio/gnwtea/XC128954.ogg,Green-winged Teal,Green-winged Teal,0.8161
+train_audio/gnwtea/XC615276.ogg,Green-winged Teal,Green-winged Teal,0.4603
+train_audio/gnwtea/XC356387.ogg,Green-winged Teal,Green-winged Teal,0.7611
+train_audio/gnwtea/XC604188.ogg,Green-winged Teal,Green-winged Teal,0.7653
+train_audio/gnwtea/XC490345.ogg,Green-winged Teal,Green-winged Teal,0.5535
+train_audio/gnwtea/XC359151.ogg,Green-winged Teal,Blue-winged Teal,0.309
+train_audio/gnwtea/XC602172.ogg,Green-winged Teal,Green-winged Teal,0.6959
+train_audio/gnwtea/XC640804.ogg,Green-winged Teal,Green-winged Teal,0.8583
+train_audio/gnwtea/XC377959.ogg,Green-winged Teal,Green-winged Teal,0.278
+train_audio/gnwtea/XC266794.ogg,Green-winged Teal,Green-winged Teal,0.5871
+train_audio/gnwtea/XC431523.ogg,Green-winged Teal,Green-winged Teal,0.2493
+train_audio/gnwtea/XC520657.ogg,Green-winged Teal,Green-winged Teal,0.8618
+train_audio/gnwtea/XC431462.ogg,Green-winged Teal,Green-winged Teal,0.8078
+train_audio/gnwtea/XC395840.ogg,Green-winged Teal,Greater White-fronted Goose,0.0874
+train_audio/gnwtea/XC199476.ogg,Green-winged Teal,Green-winged Teal,0.2343
+train_audio/gnwtea/XC365825.ogg,Green-winged Teal,Green-winged Teal,0.7565
+train_audio/gnwtea/XC314282.ogg,Green-winged Teal,Green-winged Teal,0.7504
+train_audio/gnwtea/XC409423.ogg,Green-winged Teal,Green-winged Teal,0.7369
+train_audio/gnwtea/XC636033.ogg,Green-winged Teal,Green-winged Teal,0.8634
+train_audio/gnwtea/XC173639.ogg,Green-winged Teal,Blue-winged Teal,0.2447
+train_audio/gnwtea/XC620484.ogg,Green-winged Teal,Green-winged Teal,0.7561
+train_audio/gnwtea/XC608721.ogg,Green-winged Teal,Green-winged Teal,0.8846
+train_audio/gnwtea/XC266791.ogg,Green-winged Teal,Green-winged Teal,0.6332
+train_audio/gnwtea/XC641809.ogg,Green-winged Teal,Green-winged Teal,0.8583
+train_audio/gnwtea/XC461884.ogg,Green-winged Teal,Green-winged Teal,0.7393
+train_audio/gnwtea/XC498501.ogg,Green-winged Teal,Green-winged Teal,0.8388
+train_audio/gnwtea/XC374889.ogg,Green-winged Teal,Green-winged Teal,0.2542
+train_audio/houfin/XC456752.ogg,House Finch,House Finch,0.8556
+train_audio/houfin/XC378922.ogg,House Finch,House Finch,0.8768
+train_audio/houfin/XC324075.ogg,House Finch,House Finch,0.563
+train_audio/houfin/XC440008.ogg,House Finch,House Finch,0.1889
+train_audio/houfin/XC436837.ogg,House Finch,House Finch,0.6056
+train_audio/houfin/XC483967.ogg,House Finch,House Finch,0.5051
+train_audio/houfin/XC53840.ogg,House Finch,House Finch,0.7538
+train_audio/houfin/XC268458.ogg,House Finch,House Finch,0.7858
+train_audio/houfin/XC179232.ogg,House Finch,House Finch,0.9191
+train_audio/houfin/XC306114.ogg,House Finch,House Finch,0.6456
+train_audio/houfin/XC140991.ogg,House Finch,House Finch,0.8306
+train_audio/houfin/XC550964.ogg,House Finch,House Finch,0.7507
+train_audio/houfin/XC628187.ogg,House Finch,House Finch,0.7265
+train_audio/houfin/XC566136.ogg,House Finch,House Finch,0.8076
+train_audio/houfin/XC327634.ogg,House Finch,House Finch,0.3709
+train_audio/houfin/XC219341.ogg,House Finch,House Finch,0.7874
+train_audio/houfin/XC383989.ogg,House Finch,House Finch,0.6838
+train_audio/houfin/XC638236.ogg,House Finch,House Finch,0.7877
+train_audio/houfin/XC261400.ogg,House Finch,House Finch,0.2235
+train_audio/houfin/XC440009.ogg,House Finch,House Finch,0.3884
+train_audio/houfin/XC163052.ogg,House Finch,House Finch,0.5943
+train_audio/houfin/XC584861.ogg,House Finch,House Finch,0.8835
+train_audio/houfin/XC471147.ogg,House Finch,House Finch,0.2775
+train_audio/houfin/XC571042.ogg,House Finch,House Finch,0.8025
+train_audio/houfin/XC140492.ogg,House Finch,House Finch,0.8913
+train_audio/houfin/XC286429.ogg,House Finch,House Finch,0.4715
+train_audio/houfin/XC324313.ogg,House Finch,House Finch,0.8022
+train_audio/houfin/XC171104.ogg,House Finch,House Finch,0.44
+train_audio/houfin/XC568780.ogg,House Finch,House Sparrow,0.4887
+train_audio/houfin/XC58462.ogg,House Finch,Common Waxbill,0.1334
+train_audio/houspa/XC653365.ogg,House Sparrow,House Sparrow,0.6238
+train_audio/houspa/XC169127.ogg,House Sparrow,House Sparrow,0.4357
+train_audio/houspa/XC163614.ogg,House Sparrow,Belted Kingfisher,0.2204
+train_audio/houspa/XC454444.ogg,House Sparrow,House Sparrow,0.9417
+train_audio/houspa/XC632807.ogg,House Sparrow,House Sparrow,0.8759
+train_audio/houspa/XC622453.ogg,House Sparrow,House Sparrow,0.8935
+train_audio/houspa/XC537248.ogg,House Sparrow,House Sparrow,0.7929
+train_audio/houspa/XC583066.ogg,House Sparrow,House Sparrow,0.4036
+train_audio/houspa/XC480909.ogg,House Sparrow,House Sparrow,0.2521
+train_audio/houspa/XC535380.ogg,House Sparrow,House Sparrow,0.884
+train_audio/houspa/XC443079.ogg,House Sparrow,House Sparrow,0.3604
+train_audio/houspa/XC623507.ogg,House Sparrow,House Sparrow,0.8564
+train_audio/houspa/XC260100.ogg,House Sparrow,House Sparrow,0.3574
+train_audio/houspa/XC264023.ogg,House Sparrow,House Sparrow,0.7141
+train_audio/houspa/XC348726.ogg,House Sparrow,House Sparrow,0.586
+train_audio/houspa/XC187964.ogg,House Sparrow,House Sparrow,0.9028
+train_audio/houspa/XC524219.ogg,House Sparrow,House Sparrow,0.9088
+train_audio/houspa/XC254277.ogg,House Sparrow,Common Waxbill,0.0827
+train_audio/houspa/XC371292.ogg,House Sparrow,House Sparrow,0.861
+train_audio/houspa/XC293415.ogg,House Sparrow,Common Waxbill,0.1689
+train_audio/houspa/XC374431.ogg,House Sparrow,House Sparrow,0.638
+train_audio/houspa/XC639612.ogg,House Sparrow,House Sparrow,0.398
+train_audio/houspa/XC541432.ogg,House Sparrow,House Sparrow,0.6719
+train_audio/houspa/XC233317.ogg,House Sparrow,House Sparrow,0.8946
+train_audio/houspa/XC150123.ogg,House Sparrow,House Sparrow,0.8838
+train_audio/houspa/XC603422.ogg,House Sparrow,House Finch,0.3759
+train_audio/houspa/XC485308.ogg,House Sparrow,House Sparrow,0.8596
+train_audio/houspa/XC345815.ogg,House Sparrow,House Sparrow,0.9197
+train_audio/houspa/XC306063.ogg,House Sparrow,Common Waxbill,0.3344
+train_audio/houspa/XC611493.ogg,House Sparrow,House Sparrow,0.8404
+train_audio/compea/XC73135.ogg,Indian Peafowl,Canada Goose,0.3901
+train_audio/compea/XC632249.ogg,Indian Peafowl,Indian Peafowl,0.9691
+train_audio/compea/XC316933.ogg,Indian Peafowl,Indian Peafowl,0.2238
+train_audio/compea/XC660417.ogg,Indian Peafowl,Indian Peafowl,0.9798
+train_audio/compea/XC572395.ogg,Indian Peafowl,Indian Peafowl,0.6237
+train_audio/compea/XC426341.ogg,Indian Peafowl,Indian Peafowl,0.6675
+train_audio/jabwar/XC194968.ogg,Japanese Bush Warbler,Japanese Bush Warbler,0.6427
+train_audio/jabwar/XC539048.ogg,Japanese Bush Warbler,Northern Mockingbird,0.1878
+train_audio/jabwar/XC581688.ogg,Japanese Bush Warbler,Japanese Bush Warbler,0.6506
+train_audio/jabwar/XC536947.ogg,Japanese Bush Warbler,House Finch,0.32
+train_audio/jabwar/XC122542.ogg,Japanese Bush Warbler,Scaly-breasted Munia,0.0834
+train_audio/jabwar/XC213603.ogg,Japanese Bush Warbler,Japanese Bush Warbler,0.6954
+train_audio/jabwar/XC282368.ogg,Japanese Bush Warbler,Japanese Bush Warbler,0.337
+train_audio/jabwar/XC41397.ogg,Japanese Bush Warbler,Japanese Bush Warbler,0.2616
+train_audio/laugul/XC560799.ogg,Laughing Gull,Laughing Gull,0.838
+train_audio/laugul/XC445852.ogg,Laughing Gull,Laughing Gull,0.6394
+train_audio/laugul/XC534562.ogg,Laughing Gull,Laughing Gull,0.8086
+train_audio/laugul/XC333002.ogg,Laughing Gull,Laughing Gull,0.7763
+train_audio/laugul/XC143764.ogg,Laughing Gull,Common Gallinule,0.173
+train_audio/laugul/XC299097.ogg,Laughing Gull,Northern Cardinal,0.1972
+train_audio/laugul/XC565554.ogg,Laughing Gull,Laughing Gull,0.5304
+train_audio/laugul/XC506030.ogg,Laughing Gull,Laughing Gull,0.3784
+train_audio/leasan/XC140245.ogg,Least Sandpiper,Dunlin,0.4537
+train_audio/leasan/XC494401.ogg,Least Sandpiper,Scaly-breasted Munia,0.256
+train_audio/leasan/XC452511.ogg,Least Sandpiper,Belted Kingfisher,0.1641
+train_audio/leasan/XC318471.ogg,Least Sandpiper,Green-winged Teal,0.3026
+train_audio/leasan/XC147352.ogg,Least Sandpiper,Least Sandpiper,0.2338
+train_audio/leasan/XC109320.ogg,Least Sandpiper,Least Sandpiper,0.775
+train_audio/leasan/XC267510.ogg,Least Sandpiper,Gadwall,0.3413
+train_audio/leasan/XC147356.ogg,Least Sandpiper,Least Sandpiper,0.8406
+train_audio/leater1/XC558050.ogg,Least Tern,Least Tern,0.6263
+train_audio/leater1/XC145821.ogg,Least Tern,Least Tern,0.8419
+train_audio/leater1/XC177294.ogg,Least Tern,Least Tern,0.3209
+train_audio/leater1/XC433085.ogg,Least Tern,Least Tern,0.6684
+train_audio/leater1/XC665638.ogg,Least Tern,Least Tern,0.4996
+train_audio/leater1/XC197294.ogg,Least Tern,Least Tern,0.8397
+train_audio/leater1/XC140816.ogg,Least Tern,Least Tern,0.1221
+train_audio/leater1/XC143777.ogg,Least Tern,Least Tern,0.8369
+train_audio/leater1/XC269789.ogg,Least Tern,Least Tern,0.9009
+train_audio/leater1/XC562631.ogg,Least Tern,Least Tern,0.778
+train_audio/lesyel/XC321921.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.8974
+train_audio/lesyel/XC321910.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.6658
+train_audio/lesyel/XC406315.ogg,Lesser Yellowlegs,Long-billed Dowitcher,0.1763
+train_audio/lesyel/XC200410.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.4849
+train_audio/lesyel/XC17049.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.2145
+train_audio/lesyel/XC321907.ogg,Lesser Yellowlegs,Common Gallinule,0.3378
+train_audio/lesyel/XC488496.ogg,Lesser Yellowlegs,Ruddy Turnstone,0.5197
+train_audio/lesyel/XC451526.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.8501
+train_audio/lesyel/XC143741.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.8757
+train_audio/lesyel/XC257510.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.5876
+train_audio/lesyel/XC444160.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.395
+train_audio/lesyel/XC415532.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.67
+train_audio/lesyel/XC52670.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.4416
+train_audio/lesyel/XC264114.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.2205
+train_audio/lesyel/XC161326.ogg,Lesser Yellowlegs,Lesser Yellowlegs,0.5147
+train_audio/lobdow/XC161343.ogg,Long-billed Dowitcher,Long-billed Dowitcher,0.421
+train_audio/lobdow/XC406406.ogg,Long-billed Dowitcher,Long-billed Dowitcher,0.9353
+train_audio/lobdow/XC203540.ogg,Long-billed Dowitcher,Long-billed Dowitcher,0.8546
+train_audio/lobdow/XC448940.ogg,Long-billed Dowitcher,Long-billed Dowitcher,0.8642
+train_audio/lobdow/XC490402.ogg,Long-billed Dowitcher,Long-billed Dowitcher,0.481
+train_audio/lobdow/XC490403.ogg,Long-billed Dowitcher,Long-billed Dowitcher,0.9084
+train_audio/lobdow/XC490812.ogg,Long-billed Dowitcher,Long-billed Dowitcher,0.9772
+train_audio/lobdow/XC141737.ogg,Long-billed Dowitcher,Long-billed Dowitcher,0.6732
+train_audio/mallar3/XC522742.ogg,Mallard,Mallard,0.9216
+train_audio/mallar3/XC539454.ogg,Mallard,Gadwall,0.2742
+train_audio/mallar3/XC449061.ogg,Mallard,Mallard,0.882
+train_audio/mallar3/XC145732.ogg,Mallard,Mallard,0.6832
+train_audio/mallar3/XC648258.ogg,Mallard,Mallard,0.6828
+train_audio/mallar3/XC569984.ogg,Mallard,Mallard,0.5847
+train_audio/mallar3/XC440476.ogg,Mallard,Mallard,0.5954
+train_audio/mallar3/XC407102.ogg,Mallard,Eurasian Skylark,0.3597
+train_audio/mallar3/XC408209.ogg,Mallard,Mallard,0.884
+train_audio/mallar3/XC522622.ogg,Mallard,Mallard,0.4236
+train_audio/mallar3/XC122883.ogg,Mallard,Mallard,0.4162
+train_audio/mallar3/XC234891.ogg,Mallard,Mallard,0.8729
+train_audio/mallar3/XC618673.ogg,Mallard,Rock Pigeon,0.1486
+train_audio/mallar3/XC357091.ogg,Mallard,Mallard,0.3458
+train_audio/mallar3/XC648265.ogg,Mallard,Mallard,0.3214
+train_audio/mallar3/XC505439.ogg,Mallard,Mallard,0.8249
+train_audio/mallar3/XC464841.ogg,Mallard,Mallard,0.4983
+train_audio/mallar3/XC623712.ogg,Mallard,Mallard,0.7117
+train_audio/mallar3/XC519495.ogg,Mallard,Mallard,0.5982
+train_audio/mallar3/XC595773.ogg,Mallard,Green-winged Teal,0.5662
+train_audio/mallar3/XC262842.ogg,Mallard,Mallard,0.4712
+train_audio/mallar3/XC501752.ogg,Mallard,Mallard,0.9542
+train_audio/mallar3/XC630662.ogg,Mallard,Mallard,0.8678
+train_audio/mallar3/XC603347.ogg,Mallard,Mallard,0.5998
+train_audio/mallar3/XC357884.ogg,Mallard,Mallard,0.8709
+train_audio/mallar3/XC455728.ogg,Mallard,Mallard,0.7873
+train_audio/mallar3/XC536048.ogg,Mallard,Mallard,0.8787
+train_audio/mallar3/XC298822.ogg,Mallard,Mallard,0.5487
+train_audio/mallar3/XC405594.ogg,Mallard,Gadwall,0.4469
+train_audio/mallar3/XC393216.ogg,Mallard,Mallard,0.8774
+train_audio/merlin/XC137975.ogg,Merlin,Merlin,0.9035
+train_audio/merlin/XC403176.ogg,Merlin,Merlin,0.938
+train_audio/merlin/XC371876.ogg,Merlin,Merlin,0.8211
+train_audio/merlin/XC195549.ogg,Merlin,Merlin,0.9157
+train_audio/merlin/XC324188.ogg,Merlin,Merlin,0.8688
+train_audio/merlin/XC145139.ogg,Merlin,Merlin,0.8221
+train_audio/merlin/XC195555.ogg,Merlin,Merlin,0.889
+train_audio/mitpar/XC139513.ogg,Mitred Parakeet,Mitred Parakeet,0.7574
+train_audio/mitpar/XC599244.ogg,Mitred Parakeet,Mitred Parakeet,0.5495
+train_audio/mitpar/XC51664.ogg,Mitred Parakeet,Mitred Parakeet,0.8619
+train_audio/mitpar/XC121286.ogg,Mitred Parakeet,Mitred Parakeet,0.6648
+train_audio/mitpar/XC289838.ogg,Mitred Parakeet,Mitred Parakeet,0.6104
+train_audio/mitpar/XC139612.ogg,Mitred Parakeet,Mitred Parakeet,0.8817
+train_audio/moudov/XC661720.ogg,Mourning Dove,Mourning Dove,0.454
+train_audio/moudov/XC268200.ogg,Mourning Dove,Mourning Dove,0.7947
+train_audio/moudov/XC268211.ogg,Mourning Dove,Mourning Dove,0.9307
+train_audio/moudov/XC178531.ogg,Mourning Dove,Mourning Dove,0.6948
+train_audio/moudov/XC153652.ogg,Mourning Dove,Mourning Dove,0.9183
+train_audio/moudov/XC583580.ogg,Mourning Dove,Mourning Dove,0.886
+train_audio/moudov/XC368461.ogg,Mourning Dove,Mourning Dove,0.6233
+train_audio/moudov/XC404203.ogg,Mourning Dove,Mourning Dove,0.519
+train_audio/moudov/XC134188.ogg,Mourning Dove,Mourning Dove,0.934
+train_audio/moudov/XC153651.ogg,Mourning Dove,Mourning Dove,0.9269
+train_audio/moudov/XC368468.ogg,Mourning Dove,Mourning Dove,0.8428
+train_audio/moudov/XC661477.ogg,Mourning Dove,Mourning Dove,0.5941
+train_audio/moudov/XC389084.ogg,Mourning Dove,Mourning Dove,0.6912
+train_audio/moudov/XC453070.ogg,Mourning Dove,Mourning Dove,0.8349
+train_audio/norcar/XC434580.ogg,Northern Cardinal,Northern Cardinal,0.6165
+train_audio/norcar/XC497103.ogg,Northern Cardinal,Northern Cardinal,0.6687
+train_audio/norcar/XC563619.ogg,Northern Cardinal,Northern Cardinal,0.8743
+train_audio/norcar/XC125284.ogg,Northern Cardinal,Northern Cardinal,0.9045
+train_audio/norcar/XC309821.ogg,Northern Cardinal,Northern Cardinal,0.7234
+train_audio/norcar/XC434579.ogg,Northern Cardinal,Northern Cardinal,0.6365
+train_audio/norcar/XC199662.ogg,Northern Cardinal,Northern Cardinal,0.6102
+train_audio/norcar/XC121457.ogg,Northern Cardinal,Northern Cardinal,0.862
+train_audio/norcar/XC142500.ogg,Northern Cardinal,Northern Cardinal,0.6959
+train_audio/norcar/XC407054.ogg,Northern Cardinal,Northern Cardinal,0.815
+train_audio/norcar/XC373452.ogg,Northern Cardinal,Northern Cardinal,0.787
+train_audio/norcar/XC413201.ogg,Northern Cardinal,Northern Cardinal,0.2709
+train_audio/norcar/XC233717.ogg,Northern Cardinal,Northern Cardinal,0.7133
+train_audio/norcar/XC110059.ogg,Northern Cardinal,Northern Cardinal,0.7809
+train_audio/norcar/XC439906.ogg,Northern Cardinal,Northern Cardinal,0.459
+train_audio/norcar/XC144243.ogg,Northern Cardinal,Northern Mockingbird,0.1597
+train_audio/norcar/XC177296.ogg,Northern Cardinal,Northern Cardinal,0.8504
+train_audio/norcar/XC477596.ogg,Northern Cardinal,Northern Cardinal,0.9117
+train_audio/norcar/XC534176.ogg,Northern Cardinal,Northern Cardinal,0.3314
+train_audio/norcar/XC109035.ogg,Northern Cardinal,Northern Cardinal,0.8234
+train_audio/norcar/XC566749.ogg,Northern Cardinal,Northern Cardinal,0.8147
+train_audio/norcar/XC196163.ogg,Northern Cardinal,Northern Cardinal,0.897
+train_audio/norcar/XC365067.ogg,Northern Cardinal,Northern Cardinal,0.8616
+train_audio/norcar/XC629095.ogg,Northern Cardinal,Northern Cardinal,0.663
+train_audio/norcar/XC558057.ogg,Northern Cardinal,Northern Cardinal,0.8493
+train_audio/norcar/XC366398.ogg,Northern Cardinal,Northern Cardinal,0.6777
+train_audio/norcar/XC388706.ogg,Northern Cardinal,Northern Cardinal,0.6005
+train_audio/norcar/XC571320.ogg,Northern Cardinal,Northern Cardinal,0.4941
+train_audio/norcar/XC234666.ogg,Northern Cardinal,Northern Cardinal,0.5835
+train_audio/norcar/XC439907.ogg,Northern Cardinal,Northern Cardinal,0.5478
+train_audio/normoc/XC653750.ogg,Northern Mockingbird,Northern Mockingbird,0.5726
+train_audio/normoc/XC162121.ogg,Northern Mockingbird,Mourning Dove,0.0589
+train_audio/normoc/XC130969.ogg,Northern Mockingbird,Northern Mockingbird,0.7939
+train_audio/normoc/XC553299.ogg,Northern Mockingbird,Northern Mockingbird,0.7591
+train_audio/normoc/XC391464.ogg,Northern Mockingbird,Northern Mockingbird,0.9528
+train_audio/normoc/XC608259.ogg,Northern Mockingbird,Northern Mockingbird,0.5207
+train_audio/normoc/XC321926.ogg,Northern Mockingbird,Northern Mockingbird,0.535
+train_audio/normoc/XC636556.ogg,Northern Mockingbird,Northern Mockingbird,0.8679
+train_audio/normoc/XC185490.ogg,Northern Mockingbird,Northern Mockingbird,0.4217
+train_audio/normoc/XC362788.ogg,Northern Mockingbird,Northern Mockingbird,0.5194
+train_audio/normoc/XC566098.ogg,Northern Mockingbird,Northern Mockingbird,0.8643
+train_audio/normoc/XC357943.ogg,Northern Mockingbird,Northern Mockingbird,0.7821
+train_audio/normoc/XC477371.ogg,Northern Mockingbird,Northern Mockingbird,0.6956
+train_audio/normoc/XC127522.ogg,Northern Mockingbird,Northern Mockingbird,0.6087
+train_audio/normoc/XC343929.ogg,Northern Mockingbird,Northern Mockingbird,0.2626
+train_audio/normoc/XC466171.ogg,Northern Mockingbird,Northern Mockingbird,0.2888
+train_audio/normoc/XC162120.ogg,Northern Mockingbird,Northern Mockingbird,0.5335
+train_audio/normoc/XC590833.ogg,Northern Mockingbird,Red Junglefowl,0.0866
+train_audio/normoc/XC570236.ogg,Northern Mockingbird,Northern Mockingbird,0.5094
+train_audio/normoc/XC389089.ogg,Northern Mockingbird,Northern Mockingbird,0.4633
+train_audio/normoc/XC269619.ogg,Northern Mockingbird,Northern Mockingbird,0.2317
+train_audio/normoc/XC559555.ogg,Northern Mockingbird,Northern Mockingbird,0.3827
+train_audio/normoc/XC138494.ogg,Northern Mockingbird,Northern Mockingbird,0.813
+train_audio/normoc/XC172648.ogg,Northern Mockingbird,Northern Mockingbird,0.7583
+train_audio/normoc/XC321905.ogg,Northern Mockingbird,Northern Mockingbird,0.78
+train_audio/normoc/XC322013.ogg,Northern Mockingbird,Northern Mockingbird,0.5192
+train_audio/normoc/XC122159.ogg,Northern Mockingbird,Northern Mockingbird,0.8985
+train_audio/normoc/XC601585.ogg,Northern Mockingbird,Northern Cardinal,0.2988
+train_audio/normoc/XC661657.ogg,Northern Mockingbird,Northern Mockingbird,0.8773
+train_audio/normoc/XC110060.ogg,Northern Mockingbird,Northern Mockingbird,0.6841
+train_audio/norpin/XC624461.ogg,Northern Pintail,Northern Pintail,0.8373
+train_audio/norpin/XC113161.ogg,Northern Pintail,Northern Pintail,0.7294
+train_audio/norpin/XC540360.ogg,Northern Pintail,Eurasian Wigeon,0.1833
+train_audio/norpin/XC631859.ogg,Northern Pintail,Northern Pintail,0.5875
+train_audio/norpin/XC645073.ogg,Northern Pintail,Northern Pintail,0.6989
+train_audio/norpin/XC521202.ogg,Northern Pintail,Northern Pintail,0.4781
+train_audio/norpin/XC631231.ogg,Northern Pintail,Snow Goose,0.215
+train_audio/norpin/XC540037.ogg,Northern Pintail,Black-crowned Night-Heron,0.6035
+train_audio/norpin/XC509528.ogg,Northern Pintail,Northern Shoveler,0.1925
+train_audio/norpin/XC643765.ogg,Northern Pintail,Northern Pintail,0.6738
+train_audio/norpin/XC623512.ogg,Northern Pintail,Northern Pintail,0.342
+train_audio/norsho/XC67253.ogg,Northern Shoveler,Northern Shoveler,0.3838
+train_audio/norsho/XC42545.ogg,Northern Shoveler,Rock Pigeon,0.1274
+train_audio/norsho/XC611078.ogg,Northern Shoveler,Northern Shoveler,0.5613
+train_audio/norsho/XC464099.ogg,Northern Shoveler,Northern Shoveler,0.4938
+train_audio/norsho/XC464945.ogg,Northern Shoveler,Mitred Parakeet,0.341
+train_audio/norsho/XC546738.ogg,Northern Shoveler,Green-winged Teal,0.5565
+train_audio/norsho/XC112788.ogg,Northern Shoveler,Northern Shoveler,0.2364
+train_audio/norsho/XC598204.ogg,Northern Shoveler,Northern Shoveler,0.3865
+train_audio/norsho/XC413785.ogg,Northern Shoveler,Mallard,0.2159
+train_audio/norsho/XC42544.ogg,Northern Shoveler,Northern Shoveler,0.4096
+train_audio/norsho/XC112786.ogg,Northern Shoveler,Brant,0.2404
+train_audio/osprey/XC369949.ogg,Osprey,Osprey,0.6061
+train_audio/osprey/XC122906.ogg,Osprey,Caspian Tern,0.7203
+train_audio/osprey/XC327674.ogg,Osprey,Osprey,0.618
+train_audio/osprey/XC448776.ogg,Osprey,Osprey,0.7388
+train_audio/osprey/XC466220.ogg,Osprey,Osprey,0.9548
+train_audio/osprey/XC610417.ogg,Osprey,Osprey,0.8054
+train_audio/osprey/XC183064.ogg,Osprey,Osprey,0.1928
+train_audio/osprey/XC204662.ogg,Osprey,Osprey,0.9151
+train_audio/osprey/XC344110.ogg,Osprey,Osprey,0.9073
+train_audio/osprey/XC530768.ogg,Osprey,Osprey,0.7431
+train_audio/osprey/XC187891.ogg,Osprey,Rock Pigeon,0.2219
+train_audio/osprey/XC451676.ogg,Osprey,Osprey,0.7816
+train_audio/osprey/XC190478.ogg,Osprey,Osprey,0.6971
+train_audio/osprey/XC194723.ogg,Osprey,Osprey,0.952
+train_audio/osprey/XC267305.ogg,Osprey,Osprey,0.802
+train_audio/osprey/XC138766.ogg,Osprey,Osprey,0.9827
+train_audio/osprey/XC188697.ogg,Osprey,Osprey,0.7483
+train_audio/osprey/XC592797.ogg,Osprey,Osprey,0.9229
+train_audio/osprey/XC343357.ogg,Osprey,Osprey,0.5043
+train_audio/osprey/XC174765.ogg,Osprey,Osprey,0.7893
+train_audio/osprey/XC431050.ogg,Osprey,Pied-billed Grebe,0.1362
+train_audio/osprey/XC166108.ogg,Osprey,Osprey,0.2011
+train_audio/osprey/XC447580.ogg,Osprey,Osprey,0.7529
+train_audio/pagplo/XC525881.ogg,Pacific Golden-Plover,Western Meadowlark,0.1777
+train_audio/pagplo/XC361606.ogg,Pacific Golden-Plover,Lesser Yellowlegs,0.1158
+train_audio/pagplo/XC612153.ogg,Pacific Golden-Plover,Pacific Golden-Plover,0.8993
+train_audio/pagplo/XC304080.ogg,Pacific Golden-Plover,Pacific Golden-Plover,0.3109
+train_audio/pagplo/XC180833.ogg,Pacific Golden-Plover,Pacific Golden-Plover,0.1106
+train_audio/parjae/XC496381.ogg,Parasitic Jaeger,Eurasian Wigeon,0.1979
+train_audio/parjae/XC657937.ogg,Parasitic Jaeger,Parasitic Jaeger,0.77
+train_audio/parjae/XC476530.ogg,Parasitic Jaeger,Arctic Tern,0.121
+train_audio/parjae/XC479316.ogg,Parasitic Jaeger,Parasitic Jaeger,0.7327
+train_audio/parjae/XC479314.ogg,Parasitic Jaeger,Parasitic Jaeger,0.8429
+train_audio/parjae/XC203452.ogg,Parasitic Jaeger,Parasitic Jaeger,0.8154
+train_audio/pecsan/XC406465.ogg,Pectoral Sandpiper,Pectoral Sandpiper,0.5551
+train_audio/pecsan/XC406460.ogg,Pectoral Sandpiper,Pectoral Sandpiper,0.6205
+train_audio/pecsan/XC139705.ogg,Pectoral Sandpiper,Pectoral Sandpiper,0.3645
+train_audio/pecsan/XC51884.ogg,Pectoral Sandpiper,Ruddy Turnstone,0.4176
+train_audio/pecsan/XC109322.ogg,Pectoral Sandpiper,Least Sandpiper,0.2414
+train_audio/pecsan/XC406470.ogg,Pectoral Sandpiper,Pectoral Sandpiper,0.2676
+train_audio/pecsan/XC406457.ogg,Pectoral Sandpiper,Pectoral Sandpiper,0.3767
+train_audio/pecsan/XC396682.ogg,Pectoral Sandpiper,Pectoral Sandpiper,0.8408
+train_audio/perfal/XC419859.ogg,Peregrine Falcon,Peregrine Falcon,0.4317
+train_audio/perfal/XC308293.ogg,Peregrine Falcon,Peregrine Falcon,0.7349
+train_audio/perfal/XC552453.ogg,Peregrine Falcon,Peregrine Falcon,0.3852
+train_audio/perfal/XC496049.ogg,Peregrine Falcon,Peregrine Falcon,0.5517
+train_audio/perfal/XC390759.ogg,Peregrine Falcon,Peregrine Falcon,0.124
+train_audio/perfal/XC563849.ogg,Peregrine Falcon,Peregrine Falcon,0.7338
+train_audio/perfal/XC305058.ogg,Peregrine Falcon,Peregrine Falcon,0.9001
+train_audio/perfal/XC266616.ogg,Peregrine Falcon,Peregrine Falcon,0.3808
+train_audio/perfal/XC463087.ogg,Peregrine Falcon,Black-necked Stilt,0.5213
+train_audio/perfal/XC406325.ogg,Peregrine Falcon,Peregrine Falcon,0.7955
+train_audio/perfal/XC209343.ogg,Peregrine Falcon,Peregrine Falcon,0.3856
+train_audio/perfal/XC350547.ogg,Peregrine Falcon,Peregrine Falcon,0.686
+train_audio/perfal/XC344846.ogg,Peregrine Falcon,Peregrine Falcon,0.4265
+train_audio/perfal/XC569839.ogg,Peregrine Falcon,Peregrine Falcon,0.5703
+train_audio/perfal/XC244433.ogg,Peregrine Falcon,Peregrine Falcon,0.9314
+train_audio/perfal/XC254335.ogg,Peregrine Falcon,Peregrine Falcon,0.6393
+train_audio/perfal/XC213533.ogg,Peregrine Falcon,Peregrine Falcon,0.4976
+train_audio/perfal/XC474915.ogg,Peregrine Falcon,Black-necked Stilt,0.1032
+train_audio/perfal/XC563852.ogg,Peregrine Falcon,Peregrine Falcon,0.693
+train_audio/pibgre/XC394743.ogg,Pied-billed Grebe,Northern Pintail,0.0893
+train_audio/pibgre/XC542616.ogg,Pied-billed Grebe,Pied-billed Grebe,0.4604
+train_audio/pibgre/XC394677.ogg,Pied-billed Grebe,Pied-billed Grebe,0.4175
+train_audio/pibgre/XC565873.ogg,Pied-billed Grebe,Pied-billed Grebe,0.3713
+train_audio/pibgre/XC287250.ogg,Pied-billed Grebe,Pied-billed Grebe,0.8952
+train_audio/pibgre/XC629177.ogg,Pied-billed Grebe,Pied-billed Grebe,0.8335
+train_audio/pibgre/XC451476.ogg,Pied-billed Grebe,Common Gallinule,0.3589
+train_audio/pibgre/XC287253.ogg,Pied-billed Grebe,Pied-billed Grebe,0.4825
+train_audio/pibgre/XC451361.ogg,Pied-billed Grebe,Pied-billed Grebe,0.7714
+train_audio/pibgre/XC263214.ogg,Pied-billed Grebe,Pied-billed Grebe,0.61
+train_audio/pibgre/XC624563.ogg,Pied-billed Grebe,Pied-billed Grebe,0.6841
+train_audio/pibgre/XC452186.ogg,Pied-billed Grebe,Pied-billed Grebe,0.9284
+train_audio/pibgre/XC600726.ogg,Pied-billed Grebe,Pied-billed Grebe,0.2327
+train_audio/pibgre/XC452097.ogg,Pied-billed Grebe,Pied-billed Grebe,0.956
+train_audio/pibgre/XC479780.ogg,Pied-billed Grebe,Pied-billed Grebe,0.607
+train_audio/pibgre/XC283519.ogg,Pied-billed Grebe,Pied-billed Grebe,0.8648
+train_audio/redjun/XC507744.ogg,Red Junglefowl,Indian Peafowl,0.2027
+train_audio/redjun/XC571659.ogg,Red Junglefowl,Red Junglefowl,0.2756
+train_audio/redjun/XC37583.ogg,Red Junglefowl,Red Junglefowl,0.3178
+train_audio/redjun/XC348096.ogg,Red Junglefowl,Red Junglefowl,0.4582
+train_audio/redjun/XC577814.ogg,Red Junglefowl,Red Junglefowl,0.9179
+train_audio/redjun/XC124406.ogg,Red Junglefowl,Spotted Dove,0.4479
+train_audio/redjun/XC607688.ogg,Red Junglefowl,Red Junglefowl,0.1904
+train_audio/redjun/XC116829.ogg,Red Junglefowl,Red Junglefowl,0.178
+train_audio/ribgul/XC71565.ogg,Ring-billed Gull,Ring-billed Gull,0.9705
+train_audio/ribgul/XC11858.ogg,Ring-billed Gull,Ring-billed Gull,0.3979
+train_audio/ribgul/XC71563.ogg,Ring-billed Gull,Ring-billed Gull,0.8884
+train_audio/ribgul/XC527917.ogg,Ring-billed Gull,Laughing Gull,0.2827
+train_audio/ribgul/XC169250.ogg,Ring-billed Gull,Ring-billed Gull,0.6452
+train_audio/ribgul/XC71564.ogg,Ring-billed Gull,Ring-billed Gull,0.6697
+train_audio/ribgul/XC461003.ogg,Ring-billed Gull,Ring-billed Gull,0.7039
+train_audio/ribgul/XC161501.ogg,Ring-billed Gull,Ring-billed Gull,0.2857
+train_audio/rinphe/XC531888.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.6246
+train_audio/rinphe/XC266714.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.8437
+train_audio/rinphe/XC548020.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.9667
+train_audio/rinphe/XC406063.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.8284
+train_audio/rinphe/XC401850.ogg,Ring-necked Pheasant,California Quail,0.2283
+train_audio/rinphe/XC441882.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.9696
+train_audio/rinphe/XC266715.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.9587
+train_audio/rinphe/XC538549.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.9833
+train_audio/rinphe/XC656622.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.555
+train_audio/rinphe/XC462169.ogg,Ring-necked Pheasant,Common Gallinule,0.1005
+train_audio/rinphe/XC179662.ogg,Ring-necked Pheasant,Saffron Finch,0.1921
+train_audio/rinphe/XC83152.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.9928
+train_audio/rinphe/XC536137.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.9785
+train_audio/rinphe/XC598494.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.3042
+train_audio/rinphe/XC566725.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.9889
+train_audio/rinphe/XC437216.ogg,Ring-necked Pheasant,Black-bellied Plover,0.1638
+train_audio/rinphe/XC490134.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.5676
+train_audio/rinphe/XC522607.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.7952
+train_audio/rinphe/XC264952.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.5455
+train_audio/rinphe/XC635270.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.8096
+train_audio/rinphe/XC534742.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.4959
+train_audio/rinphe/XC43538.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.6043
+train_audio/rinphe/XC359141.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.9485
+train_audio/rinphe/XC539325.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.9883
+train_audio/rinphe/XC266708.ogg,Ring-necked Pheasant,Ring-necked Pheasant,0.1837
+train_audio/rocpig/XC466256.ogg,Rock Pigeon,Rock Pigeon,0.4015
+train_audio/rocpig/XC460854.ogg,Rock Pigeon,Rock Pigeon,0.9204
+train_audio/rocpig/XC51716.ogg,Rock Pigeon,Rock Pigeon,0.4856
+train_audio/rocpig/XC349161.ogg,Rock Pigeon,Rock Pigeon,0.9369
+train_audio/rocpig/XC246586.ogg,Rock Pigeon,Rock Pigeon,0.9209
+train_audio/rocpig/XC257592.ogg,Rock Pigeon,Rock Pigeon,0.7454
+train_audio/rocpig/XC58488.ogg,Rock Pigeon,Rock Pigeon,0.3475
+train_audio/rocpig/XC269761.ogg,Rock Pigeon,Rock Pigeon,0.9177
+train_audio/rocpig/XC661810.ogg,Rock Pigeon,Rock Pigeon,0.8045
+train_audio/rocpig/XC316785.ogg,Rock Pigeon,Rock Pigeon,0.7426
+train_audio/rocpig/XC568146.ogg,Rock Pigeon,Rock Pigeon,0.9493
+train_audio/rocpig/XC623844.ogg,Rock Pigeon,Rock Pigeon,0.8765
+train_audio/rocpig/XC602012.ogg,Rock Pigeon,Rock Pigeon,0.9659
+train_audio/rocpig/XC349160.ogg,Rock Pigeon,Rock Pigeon,0.8168
+train_audio/rocpig/XC453908.ogg,Rock Pigeon,Rock Pigeon,0.8982
+train_audio/rocpig/XC500495.ogg,Rock Pigeon,Rock Pigeon,0.944
+train_audio/rorpar/XC606440.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.824
+train_audio/rorpar/XC340755.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.7993
+train_audio/rorpar/XC167770.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.9166
+train_audio/rorpar/XC561983.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.8375
+train_audio/rorpar/XC36899.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.8371
+train_audio/rorpar/XC263126.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.5955
+train_audio/rorpar/XC199339.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.9867
+train_audio/rorpar/XC465037.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.8139
+train_audio/rorpar/XC167779.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.713
+train_audio/rorpar/XC166079.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.5374
+train_audio/rorpar/XC209712.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.8315
+train_audio/rorpar/XC164386.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.2447
+train_audio/rorpar/XC368584.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.5359
+train_audio/rorpar/XC445740.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.7014
+train_audio/rorpar/XC209710.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.7596
+train_audio/rorpar/XC263582.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.7755
+train_audio/rorpar/XC592951.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.2201
+train_audio/rorpar/XC602169.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.5778
+train_audio/rorpar/XC421505.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.3322
+train_audio/rorpar/XC646206.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.8853
+train_audio/rorpar/XC235165.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.6609
+train_audio/rorpar/XC622015.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.8917
+train_audio/rorpar/XC27160.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.4505
+train_audio/rorpar/XC542746.ogg,Rose-ringed Parakeet,Ruddy Turnstone,0.1821
+train_audio/rorpar/XC236819.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.4483
+train_audio/rorpar/XC175627.ogg,Rose-ringed Parakeet,House Sparrow,0.861
+train_audio/rorpar/XC577644.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.8647
+train_audio/rorpar/XC263125.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.6086
+train_audio/rorpar/XC208775.ogg,Rose-ringed Parakeet,Common Myna,0.3581
+train_audio/rorpar/XC234984.ogg,Rose-ringed Parakeet,Rose-ringed Parakeet,0.6637
+train_audio/rudtur/XC593288.ogg,Ruddy Turnstone,Ruddy Turnstone,0.1491
+train_audio/rudtur/XC615211.ogg,Ruddy Turnstone,Ruddy Turnstone,0.5566
+train_audio/rudtur/XC582783.ogg,Ruddy Turnstone,Ruddy Turnstone,0.2069
+train_audio/rudtur/XC169260.ogg,Ruddy Turnstone,Ruddy Turnstone,0.5106
+train_audio/rudtur/XC666676.ogg,Ruddy Turnstone,Ruddy Turnstone,0.669
+train_audio/rudtur/XC665840.ogg,Ruddy Turnstone,Ruddy Turnstone,0.7377
+train_audio/rudtur/XC558945.ogg,Ruddy Turnstone,Ruddy Turnstone,0.6275
+train_audio/rudtur/XC406195.ogg,Ruddy Turnstone,Ruddy Turnstone,0.6224
+train_audio/rudtur/XC177473.ogg,Ruddy Turnstone,Sanderling,0.1856
+train_audio/rudtur/XC593282.ogg,Ruddy Turnstone,Ruddy Turnstone,0.3297
+train_audio/rudtur/XC552897.ogg,Ruddy Turnstone,Ruddy Turnstone,0.8677
+train_audio/rudtur/XC582038.ogg,Ruddy Turnstone,Western Meadowlark,0.2155
+train_audio/rudtur/XC578843.ogg,Ruddy Turnstone,Ruddy Turnstone,0.2691
+train_audio/rudtur/XC666387.ogg,Ruddy Turnstone,Ruddy Turnstone,0.4758
+train_audio/rudtur/XC612321.ogg,Ruddy Turnstone,Least Sandpiper,0.188
+train_audio/rudtur/XC526306.ogg,Ruddy Turnstone,Black-bellied Plover,0.2476
+train_audio/rudtur/XC580008.ogg,Ruddy Turnstone,Ruddy Turnstone,0.7419
+train_audio/rudtur/XC145875.ogg,Ruddy Turnstone,Ruddy Turnstone,0.4572
+train_audio/rudtur/XC546931.ogg,Ruddy Turnstone,Eurasian Wigeon,0.2627
+train_audio/saffin/XC173705.ogg,Saffron Finch,Saffron Finch,0.8029
+train_audio/saffin/XC212769.ogg,Saffron Finch,Saffron Finch,0.8371
+train_audio/saffin/XC582161.ogg,Saffron Finch,Northern Mockingbird,0.1826
+train_audio/saffin/XC620879.ogg,Saffron Finch,Saffron Finch,0.8459
+train_audio/saffin/XC627061.ogg,Saffron Finch,Saffron Finch,0.6622
+train_audio/saffin/XC325854.ogg,Saffron Finch,Saffron Finch,0.7261
+train_audio/saffin/XC345707.ogg,Saffron Finch,Saffron Finch,0.6094
+train_audio/saffin/XC145468.ogg,Saffron Finch,Saffron Finch,0.6171
+train_audio/saffin/XC113880.ogg,Saffron Finch,Saffron Finch,0.1846
+train_audio/saffin/XC412184.ogg,Saffron Finch,Saffron Finch,0.7355
+train_audio/saffin/XC245461.ogg,Saffron Finch,Yellow-fronted Canary,0.1215
+train_audio/saffin/XC2744.ogg,Saffron Finch,Saffron Finch,0.8429
+train_audio/saffin/XC209526.ogg,Saffron Finch,Warbling White-eye,0.3666
+train_audio/saffin/XC433635.ogg,Saffron Finch,Saffron Finch,0.3966
+train_audio/saffin/XC286818.ogg,Saffron Finch,Saffron Finch,0.4187
+train_audio/sander/XC349931.ogg,Sanderling,Least Tern,0.2959
+train_audio/sander/XC386203.ogg,Sanderling,Arctic Tern,0.1037
+train_audio/sander/XC223302.ogg,Sanderling,Sanderling,0.2209
+train_audio/sander/XC506764.ogg,Sanderling,Sanderling,0.4853
+train_audio/sander/XC655317.ogg,Sanderling,Western Meadowlark,0.6132
+train_audio/sander/XC526215.ogg,Sanderling,Sanderling,0.9831
+train_audio/sander/XC480862.ogg,Sanderling,Sanderling,0.558
+train_audio/sander/XC434226.ogg,Sanderling,Least Tern,0.1898
+train_audio/sander/XC581658.ogg,Sanderling,Eurasian Wigeon,0.2116
+train_audio/sander/XC591655.ogg,Sanderling,Long-billed Dowitcher,0.1011
+train_audio/sander/XC109325.ogg,Sanderling,Long-billed Dowitcher,0.5634
+train_audio/sander/XC588607.ogg,Sanderling,Sanderling,0.6372
+train_audio/nutman/XC399068.ogg,Scaly-breasted Munia,Common Myna,0.1513
+train_audio/nutman/XC236335.ogg,Scaly-breasted Munia,Scaly-breasted Munia,0.5965
+train_audio/nutman/XC237114.ogg,Scaly-breasted Munia,Common Sandpiper,0.2118
+train_audio/nutman/XC396396.ogg,Scaly-breasted Munia,Osprey,0.1102
+train_audio/nutman/XC665305.ogg,Scaly-breasted Munia,Sora,0.3203
+train_audio/nutman/XC450765.ogg,Scaly-breasted Munia,Scaly-breasted Munia,0.5434
+train_audio/nutman/XC268840.ogg,Scaly-breasted Munia,Scaly-breasted Munia,0.1203
+train_audio/nutman/XC660244.ogg,Scaly-breasted Munia,House Finch,0.1232
+train_audio/semplo/XC149622.ogg,Semipalmated Plover,Semipalmated Plover,0.7538
+train_audio/semplo/XC231078.ogg,Semipalmated Plover,Semipalmated Plover,0.759
+train_audio/semplo/XC332711.ogg,Semipalmated Plover,Common Myna,0.2163
+train_audio/semplo/XC337209.ogg,Semipalmated Plover,Semipalmated Plover,0.261
+train_audio/semplo/XC661327.ogg,Semipalmated Plover,Semipalmated Plover,0.375
+train_audio/semplo/XC519792.ogg,Semipalmated Plover,Semipalmated Plover,0.5026
+train_audio/semplo/XC466231.ogg,Semipalmated Plover,Spotted Sandpiper,0.49
+train_audio/semplo/XC499705.ogg,Semipalmated Plover,Semipalmated Plover,0.3989
+train_audio/sheowl/XC522973.ogg,Short-eared Owl,Common Gallinule,0.1049
+train_audio/sheowl/XC637496.ogg,Short-eared Owl,Pectoral Sandpiper,0.1032
+train_audio/sheowl/XC656154.ogg,Short-eared Owl,Short-eared Owl,0.9471
+train_audio/sheowl/XC474679.ogg,Short-eared Owl,Short-eared Owl,0.5952
+train_audio/sheowl/XC554830.ogg,Short-eared Owl,Eurasian Wigeon,0.3367
+train_audio/sheowl/XC608379.ogg,Short-eared Owl,Short-eared Owl,0.3497
+train_audio/sheowl/XC447425.ogg,Short-eared Owl,Short-eared Owl,0.8464
+train_audio/sheowl/XC216041.ogg,Short-eared Owl,Short-eared Owl,0.9876
+train_audio/sheowl/XC637495.ogg,Short-eared Owl,Short-eared Owl,0.9587
+train_audio/sheowl/XC614282.ogg,Short-eared Owl,Short-eared Owl,0.8895
+train_audio/sheowl/XC522575.ogg,Short-eared Owl,Short-eared Owl,0.457
+train_audio/sheowl/XC614003.ogg,Short-eared Owl,Short-eared Owl,0.7994
+train_audio/sheowl/XC596527.ogg,Short-eared Owl,Black-necked Stilt,0.2918
+train_audio/snogoo/XC624546.ogg,Snow Goose,Greater White-fronted Goose,0.2258
+train_audio/snogoo/XC116053.ogg,Snow Goose,Snow Goose,0.8347
+train_audio/snogoo/XC173139.ogg,Snow Goose,Snow Goose,0.8152
+train_audio/snogoo/XC392249.ogg,Snow Goose,Snow Goose,0.8306
+train_audio/snogoo/XC357944.ogg,Snow Goose,Snow Goose,0.72
+train_audio/snogoo/XC121403.ogg,Snow Goose,Greater White-fronted Goose,0.4286
+train_audio/snogoo/XC452581.ogg,Snow Goose,Snow Goose,0.9267
+train_audio/snogoo/XC342562.ogg,Snow Goose,Snow Goose,0.7552
+train_audio/snogoo/XC298775.ogg,Snow Goose,Snow Goose,0.1815
+train_audio/snogoo/XC362116.ogg,Snow Goose,Snow Goose,0.9501
+train_audio/sora/XC319176.ogg,Sora,Sora,0.6961
+train_audio/sora/XC64553.ogg,Sora,Sora,0.4657
+train_audio/sora/XC516253.ogg,Sora,Belted Kingfisher,0.1547
+train_audio/sora/XC443831.ogg,Sora,Sora,0.5248
+train_audio/sora/XC368635.ogg,Sora,Rose-ringed Parakeet,0.1415
+train_audio/sora/XC574680.ogg,Sora,Common Gallinule,0.2409
+train_audio/sora/XC215679.ogg,Sora,Sora,0.9616
+train_audio/sora/XC663778.ogg,Sora,Sora,0.5961
+train_audio/sora/XC294051.ogg,Sora,Sora,0.3422
+train_audio/sora/XC185868.ogg,Sora,Sora,0.276
+train_audio/sora/XC378587.ogg,Sora,Sora,0.9226
+train_audio/sora/XC325929.ogg,Sora,Sora,0.6847
+train_audio/sora/XC302904.ogg,Sora,Sora,0.4544
+train_audio/sora/XC191464.ogg,Sora,Sora,0.7852
+train_audio/sora/XC215677.ogg,Sora,Sora,0.7956
+train_audio/spodov/XC304101.ogg,Spotted Dove,Spotted Dove,0.4538
+train_audio/spodov/XC240369.ogg,Spotted Dove,Spotted Dove,0.8019
+train_audio/spodov/XC539818.ogg,Spotted Dove,Spotted Dove,0.5558
+train_audio/spodov/XC293551.ogg,Spotted Dove,House Sparrow,0.1638
+train_audio/spodov/XC312465.ogg,Spotted Dove,Spotted Dove,0.5863
+train_audio/spodov/XC185648.ogg,Spotted Dove,Spotted Dove,0.8494
+train_audio/spodov/XC348751.ogg,Spotted Dove,Spotted Dove,0.9562
+train_audio/spodov/XC346126.ogg,Spotted Dove,Indian Peafowl,0.2867
+train_audio/spodov/XC443311.ogg,Spotted Dove,Spotted Dove,0.9193
+train_audio/spodov/XC495643.ogg,Spotted Dove,Spotted Dove,0.8783
+train_audio/spodov/XC203405.ogg,Spotted Dove,Spotted Dove,0.7018
+train_audio/sposan/XC498128.ogg,Spotted Sandpiper,Spotted Sandpiper,0.7993
+train_audio/sposan/XC606783.ogg,Spotted Sandpiper,Spotted Sandpiper,0.5433
+train_audio/sposan/XC330062.ogg,Spotted Sandpiper,Spotted Sandpiper,0.4892
+train_audio/sposan/XC153616.ogg,Spotted Sandpiper,Sora,0.3153
+train_audio/sposan/XC31323.ogg,Spotted Sandpiper,Spotted Sandpiper,0.6976
+train_audio/sposan/XC257516.ogg,Spotted Sandpiper,Spotted Sandpiper,0.6326
+train_audio/sposan/XC610886.ogg,Spotted Sandpiper,Spotted Sandpiper,0.8993
+train_audio/sposan/XC399609.ogg,Spotted Sandpiper,Barn Owl,0.3369
+train_audio/sposan/XC75006.ogg,Spotted Sandpiper,Spotted Sandpiper,0.6096
+train_audio/sposan/XC255373.ogg,Spotted Sandpiper,Spotted Sandpiper,0.7742
+train_audio/sposan/XC51888.ogg,Spotted Sandpiper,Common Waxbill,0.1499
+train_audio/sposan/XC538983.ogg,Spotted Sandpiper,Spotted Sandpiper,0.7433
+train_audio/towsol/XC446640.ogg,Townsend's Solitaire,Townsend's Solitaire,0.6575
+train_audio/towsol/XC381719.ogg,Townsend's Solitaire,Townsend's Solitaire,0.69
+train_audio/towsol/XC603273.ogg,Townsend's Solitaire,Townsend's Solitaire,0.9335
+train_audio/towsol/XC393275.ogg,Townsend's Solitaire,Townsend's Solitaire,0.8189
+train_audio/towsol/XC390557.ogg,Townsend's Solitaire,Townsend's Solitaire,0.2323
+train_audio/towsol/XC158511.ogg,Townsend's Solitaire,Townsend's Solitaire,0.2783
+train_audio/towsol/XC574673.ogg,Townsend's Solitaire,Townsend's Solitaire,0.6213
+train_audio/towsol/XC309801.ogg,Townsend's Solitaire,Townsend's Solitaire,0.8441
+train_audio/towsol/XC348432.ogg,Townsend's Solitaire,Townsend's Solitaire,0.8731
+train_audio/towsol/XC512411.ogg,Townsend's Solitaire,Townsend's Solitaire,0.5717
+train_audio/warwhe1/XC31452.ogg,Warbling White-eye,Mallard,0.0885
+train_audio/warwhe1/XC507025.ogg,Warbling White-eye,Warbling White-eye,0.7863
+train_audio/warwhe1/XC581686.ogg,Warbling White-eye,Warbling White-eye,0.8492
+train_audio/warwhe1/XC210187.ogg,Warbling White-eye,Saffron Finch,0.6607
+train_audio/warwhe1/XC27333.ogg,Warbling White-eye,Warbling White-eye,0.6325
+train_audio/warwhe1/XC194700.ogg,Warbling White-eye,Warbling White-eye,0.6817
+train_audio/warwhe1/XC205833.ogg,Warbling White-eye,Least Sandpiper,0.2236
+train_audio/wesmea/XC577773.ogg,Western Meadowlark,Western Meadowlark,0.884
+train_audio/wesmea/XC355302.ogg,Western Meadowlark,Western Meadowlark,0.8667
+train_audio/wesmea/XC337577.ogg,Western Meadowlark,Western Meadowlark,0.7843
+train_audio/wesmea/XC355270.ogg,Western Meadowlark,Western Meadowlark,0.9417
+train_audio/wesmea/XC254453.ogg,Western Meadowlark,Western Meadowlark,0.6763
+train_audio/wesmea/XC607458.ogg,Western Meadowlark,Western Meadowlark,0.804
+train_audio/wesmea/XC186333.ogg,Western Meadowlark,Western Meadowlark,0.8012
+train_audio/wesmea/XC179914.ogg,Western Meadowlark,Western Meadowlark,0.7864
+train_audio/wesmea/XC185835.ogg,Western Meadowlark,Western Meadowlark,0.9105
+train_audio/wesmea/XC172447.ogg,Western Meadowlark,Western Meadowlark,0.8999
+train_audio/wesmea/XC326697.ogg,Western Meadowlark,Western Meadowlark,0.6014
+train_audio/wesmea/XC337567.ogg,Western Meadowlark,Western Meadowlark,0.6748
+train_audio/wesmea/XC256623.ogg,Western Meadowlark,Western Meadowlark,0.5226
+train_audio/wesmea/XC371333.ogg,Western Meadowlark,Western Meadowlark,0.2987
+train_audio/wesmea/XC368644.ogg,Western Meadowlark,Western Meadowlark,0.7737
+train_audio/wesmea/XC161769.ogg,Western Meadowlark,Western Meadowlark,0.6094
+train_audio/wesmea/XC307460.ogg,Western Meadowlark,Western Meadowlark,0.9147
+train_audio/wesmea/XC574373.ogg,Western Meadowlark,Western Meadowlark,0.2282
+train_audio/wesmea/XC453904.ogg,Western Meadowlark,Western Meadowlark,0.4294
+train_audio/wesmea/XC327948.ogg,Western Meadowlark,Western Meadowlark,0.7635
+train_audio/wesmea/XC210356.ogg,Western Meadowlark,Western Meadowlark,0.8999
+train_audio/wesmea/XC341689.ogg,Western Meadowlark,Western Meadowlark,0.8676
+train_audio/wesmea/XC466361.ogg,Western Meadowlark,Western Meadowlark,0.6775
+train_audio/wesmea/XC76505.ogg,Western Meadowlark,Western Meadowlark,0.8377
+train_audio/wesmea/XC377864.ogg,Western Meadowlark,Western Meadowlark,0.9085
+train_audio/wesmea/XC337568.ogg,Western Meadowlark,Western Meadowlark,0.7669
+train_audio/wesmea/XC325136.ogg,Western Meadowlark,Western Meadowlark,0.7613
+train_audio/wesmea/XC185141.ogg,Western Meadowlark,Western Meadowlark,0.853
+train_audio/wesmea/XC528540.ogg,Western Meadowlark,Western Meadowlark,0.803
+train_audio/wesmea/XC184930.ogg,Western Meadowlark,Western Meadowlark,0.9076
+train_audio/wiltur/XC433074.ogg,Wild Turkey,Wild Turkey,0.4532
+train_audio/wiltur/XC317966.ogg,Wild Turkey,Wild Turkey,0.1539
+train_audio/wiltur/XC288906.ogg,Wild Turkey,Wild Turkey,0.6132
+train_audio/wiltur/XC153735.ogg,Wild Turkey,Pied-billed Grebe,0.2202
+train_audio/wiltur/XC377125.ogg,Wild Turkey,Rock Pigeon,0.1839
+train_audio/wiltur/XC577954.ogg,Wild Turkey,Wild Turkey,0.5768
+train_audio/wiltur/XC614093.ogg,Wild Turkey,Wild Turkey,0.2271
+train_audio/wiltur/XC561471.ogg,Wild Turkey,Pied-billed Grebe,0.1603
+train_audio/yefcan/XC385133.ogg,Yellow-fronted Canary,Yellow-fronted Canary,0.5573
+train_audio/yefcan/XC543781.ogg,Yellow-fronted Canary,Yellow-fronted Canary,0.2964
+train_audio/yefcan/XC195768.ogg,Yellow-fronted Canary,Yellow-fronted Canary,0.5178
+train_audio/yefcan/XC282027.ogg,Yellow-fronted Canary,Yellow-fronted Canary,0.2147
+train_audio/yefcan/XC373728.ogg,Yellow-fronted Canary,Yellow-fronted Canary,0.6132
+train_audio/yefcan/XC638431.ogg,Yellow-fronted Canary,Yellow-fronted Canary,0.7106
+train_audio/yefcan/XC392041.ogg,Yellow-fronted Canary,Yellow-fronted Canary,0.7293
+train_audio/zebdov/XC348091.ogg,Zebra Dove,Zebra Dove,0.9409
+train_audio/zebdov/XC541316.ogg,Zebra Dove,Zebra Dove,0.8547
+train_audio/zebdov/XC205819.ogg,Zebra Dove,Zebra Dove,0.2662
+train_audio/zebdov/XC207921.ogg,Zebra Dove,Zebra Dove,0.5926
+train_audio/zebdov/XC598171.ogg,Zebra Dove,Zebra Dove,0.758
+train_audio/zebdov/XC175520.ogg,Zebra Dove,Zebra Dove,0.5391
+train_audio/zebdov/XC447638.ogg,Zebra Dove,Zebra Dove,0.7436
+train_audio/zebdov/XC207922.ogg,Zebra Dove,Zebra Dove,0.7447
+train_audio/zebdov/XC205820.ogg,Zebra Dove,Zebra Dove,0.5648

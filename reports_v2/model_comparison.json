@@ -1,0 +1,14 @@
+{
+  "note": "Original models: results from reports/ (Training_History.xlsx, per-class reports). Improved models: results exported by the Colab notebooks Bird_Image_Training_v4.ipynb and Bird_Audio_Training_v2.ipynb.",
+  "image": {
+    "original": {"model": "MobileNetV2 (alpha 1.0), 224x224", "test_accuracy": 0.6063, "top5": 0.8710, "macro_f1": 0.5988, "test_samples": 1783},
+    "improved": {"model": "MobileNetV2 (alpha 1.4), 320x320, Mixup, 3-stage fine-tuning", "test_accuracy": 0.8332, "top5": 0.9587, "macro_f1": 0.8330, "test_samples": 1769}
+  },
+  "audio": {
+    "original": {"model": "MobileNetV2, single peak-energy window", "test_accuracy": 0.6905, "top5": null, "macro_f1": 0.6522, "test_samples": 168,
+                 "caveat": "Random file-level split on a dataset where 749 of 1,679 files are exact duplicates; simulation of this split shows about 60% (52-70%) of test files have an identical copy in training, so this value overstates accuracy on new recordings."},
+    "improved": {"model": "MobileNetV2 (alpha 1.4), multi-window averaging, SpecAugment + Mixup", "test_accuracy": 0.6146, "top3": 0.7188, "top5": 0.7292, "macro_f1": 0.5095, "test_samples": 96,
+                 "caveat": "Duplicate files removed (930 unique recordings) and split by recording, so every test recording is unseen. Small test set: 1 recording = about 1 percentage point."}
+  },
+  "audio_duplicates": {"selected_files": 1679, "duplicates_removed": 749, "unique_recordings": 930}
+}

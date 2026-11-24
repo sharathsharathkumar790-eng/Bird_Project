@@ -1,0 +1,63 @@
+,precision,recall,f1-score,support
+Andean Guan,1.0,1.0,1.0,2.0
+Andean Tinamou,0.2857142857142857,1.0,0.4444444444444444,2.0
+Australian Brushturkey,1.0,1.0,1.0,2.0
+Band-tailed Guan,0.0,0.0,0.0,2.0
+Bartletts Tinamou,0.4,1.0,0.5714285714285714,2.0
+Bearded Guan,0.0,0.0,0.0,2.0
+Black Tinamou,0.3333333333333333,0.5,0.4,2.0
+Black-billed Brushturkey,1.0,1.0,1.0,1.0
+Black-capped Tinamou,0.6666666666666666,1.0,0.8,2.0
+Blue-throated Piping Guan,0.6666666666666666,0.6666666666666666,0.6666666666666666,3.0
+Brazilian Tinamou,1.0,0.5,0.6666666666666666,2.0
+Brown Tinamou,1.0,1.0,1.0,1.0
+Brushland Tinamou,0.0,0.0,0.0,1.0
+Cauca Guan,0.3333333333333333,0.5,0.4,2.0
+Chaco Chachalaca,0.0,0.0,0.0,1.0
+Chestnut-winged Chachalaca,0.0,0.0,0.0,2.0
+Cinereous Tinamou,0.0,0.0,0.0,1.0
+Collared Brushturkey,1.0,1.0,1.0,1.0
+Colombian Chachalaca,0.3333333333333333,1.0,0.5,1.0
+Crested Guan,0.3333333333333333,0.5,0.4,2.0
+Darwins Nothura,1.0,1.0,1.0,2.0
+Dusky Megapode,1.0,1.0,1.0,1.0
+Dusky-legged Guan,0.0,0.0,0.0,2.0
+Dwarf Tinamou,1.0,1.0,1.0,2.0
+East Brazilian Chachalaca,0.0,0.0,0.0,1.0
+Great Tinamou,0.4,1.0,0.5714285714285714,2.0
+Greater Rhea,0.0,0.0,0.0,1.0
+Grey Tinamou,0.5,0.5,0.5,2.0
+Grey-headed Chachalaca,1.0,1.0,1.0,2.0
+Highland Tinamou,1.0,1.0,1.0,2.0
+Little Chachalaca,1.0,1.0,1.0,2.0
+Little Tinamou,0.0,0.0,0.0,1.0
+Orange-footed Scrubfowl,1.0,1.0,1.0,2.0
+Pale-browed Tinamou,1.0,0.5,0.6666666666666666,2.0
+Plain Chachalaca,0.0,0.0,0.0,1.0
+Red-faced Guan,1.0,1.0,1.0,1.0
+Red-legged Tinamou,1.0,1.0,1.0,1.0
+Red-winged Tinamou,0.0,0.0,0.0,1.0
+Rufous-bellied Chachalaca,0.5,1.0,0.6666666666666666,2.0
+Rufous-headed Chachalaca,0.4,1.0,0.5714285714285714,2.0
+Rufous-vented Chachalaca,0.0,0.0,0.0,2.0
+Rusty-margined Guan,0.6666666666666666,1.0,0.8,2.0
+Slaty-breasted Tinamou,0.6666666666666666,1.0,0.8,2.0
+Small-billed Tinamou,0.0,0.0,0.0,1.0
+Solitary Tinamou,1.0,1.0,1.0,2.0
+Southern Cassowary,0.0,0.0,0.0,2.0
+Speckled Chachalaca,0.0,0.0,0.0,1.0
+Spixs Guan,0.5,1.0,0.6666666666666666,2.0
+Spotted Nothura,1.0,1.0,1.0,1.0
+Tataupa Tinamou,1.0,1.0,1.0,1.0
+Tawny-breasted Tinamou,0.6666666666666666,1.0,0.8,2.0
+Thicket Tinamou,0.0,0.0,0.0,1.0
+Undulated Tinamou,0.0,0.0,0.0,1.0
+Variegated Tinamou,1.0,0.5,0.6666666666666666,2.0
+West Mexican Chachalaca,1.0,1.0,1.0,2.0
+White-bellied Nothura,0.5,0.5,0.5,2.0
+White-throated Tinamou,0.0,0.0,0.0,2.0
+White-winged Guan,0.0,0.0,0.0,1.0
+Yellow-legged Tinamou,0.0,0.0,0.0,1.0
+accuracy,0.6145833333333334,0.6145833333333334,0.6145833333333334,0.6145833333333334
+macro avg,0.4941081517352704,0.5706214689265536,0.5094700026903416,96.0
+weighted avg,0.5274801587301586,0.6145833333333334,0.5446263227513227,96.0

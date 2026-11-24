@@ -1,0 +1,28 @@
+{
+  "test_recordings": 96,
+  "test_windows": 799,
+  "test_accuracy_recording": 0.6146,
+  "test_top3_recording": 0.7188,
+  "test_top5_recording": 0.7292,
+  "test_accuracy_peak_window_only": 0.5833,
+  "test_accuracy_window": 0.5081,
+  "test_loss_window": 2.563,
+  "correct_recordings": 59,
+  "macro_precision": 0.4941,
+  "macro_recall": 0.5706,
+  "macro_f1": 0.5095,
+  "weighted_f1": 0.5446,
+  "species_f1_1.00": 18,
+  "species_f1_0.00": 21,
+  "best_epoch_global": 35,
+  "best_epoch_stage": 2,
+  "best_val_recording_accuracy": 0.6667,
+  "epochs_run": {
+    "stage1": 10,
+    "stage2": 36,
+    "stage3": 10
+  },
+  "inference_ms_per_window_gpu": 2.1,
+  "model_file_MB": 80.64,
+  "total_params": 4469499
+}

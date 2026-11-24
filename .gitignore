@@ -1,0 +1,24 @@
+# Python virtual environment (each user creates their own with requirements.txt)
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter / editor / OS files
+.ipynb_checkpoints/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Secrets and logs
+.env
+.streamlit/secrets.toml
+*.log
+
+# Large training-time model files that the app does not use
+Models/_downloads/

@@ -1,0 +1,71 @@
+code,species,available,used,train,val,test
+amewig,American Wigeon,51,51,41,5,5
+arcter,Arctic Tern,196,196,156,20,20
+brnowl,Barn Owl,500,300,240,30,30
+belkin1,Belted Kingfisher,100,100,80,10,10
+bkbplo,Black-bellied Plover,271,271,217,27,27
+bcnher,Black-crowned Night-Heron,462,300,240,30,30
+bknsti,Black-necked Stilt,179,179,143,18,18
+buwtea,Blue-winged Teal,52,52,42,5,5
+bongul,Bonaparte's Gull,56,56,44,6,6
+brant,Brant,135,135,107,14,14
+calqua,California Quail,134,134,108,13,13
+cangoo,Canada Goose,318,300,240,30,30
+caster1,Caspian Tern,176,176,140,18,18
+categr,Cattle Egret,120,120,96,12,12
+comgal1,Common Gallinule,177,177,141,18,18
+commyn,Common Myna,208,208,166,21,21
+comsan,Common Sandpiper,500,300,240,30,30
+comwax,Common Waxbill,194,194,156,19,19
+dunlin,Dunlin,476,300,240,30,30
+skylar,Eurasian Skylark,500,300,240,30,30
+eurwig,Eurasian Wigeon,340,300,240,30,30
+gadwal,Gadwall,239,239,191,24,24
+gamqua,Gambel's Quail,108,108,86,11,11
+grbher3,Great Blue Heron,101,101,81,10,10
+gwfgoo,Greater White-fronted Goose,273,273,219,27,27
+gnwtea,Green-winged Teal,463,300,240,30,30
+houfin,House Finch,322,300,240,30,30
+houspa,House Sparrow,500,300,240,30,30
+compea,Indian Peafowl,55,55,43,6,6
+jabwar,Japanese Bush Warbler,78,78,62,8,8
+laugul,Laughing Gull,79,79,63,8,8
+leasan,Least Sandpiper,84,84,68,8,8
+leater1,Least Tern,99,99,79,10,10
+lesyel,Lesser Yellowlegs,149,149,119,15,15
+lobdow,Long-billed Dowitcher,83,83,67,8,8
+mallar3,Mallard,500,300,240,30,30
+merlin,Merlin,74,74,60,7,7
+mitpar,Mitred Parakeet,59,59,47,6,6
+moudov,Mourning Dove,142,142,114,14,14
+norcar,Northern Cardinal,500,300,240,30,30
+normoc,Northern Mockingbird,387,300,240,30,30
+norpin,Northern Pintail,112,112,90,11,11
+norsho,Northern Shoveler,106,106,84,11,11
+osprey,Osprey,228,228,182,23,23
+pagplo,Pacific Golden-Plover,53,53,43,5,5
+parjae,Parasitic Jaeger,62,62,50,6,6
+pecsan,Pectoral Sandpiper,75,75,59,8,8
+perfal,Peregrine Falcon,186,186,148,19,19
+pibgre,Pied-billed Grebe,162,162,130,16,16
+redjun,Red Junglefowl,75,75,59,8,8
+ribgul,Ring-billed Gull,78,78,62,8,8
+rinphe,Ring-necked Pheasant,248,248,198,25,25
+rocpig,Rock Pigeon,156,156,124,16,16
+rorpar,Rose-ringed Parakeet,311,300,240,30,30
+rudtur,Ruddy Turnstone,192,192,154,19,19
+saffin,Saffron Finch,151,151,121,15,15
+sander,Sanderling,116,116,92,12,12
+nutman,Scaly-breasted Munia,78,78,62,8,8
+semplo,Semipalmated Plover,77,77,61,8,8
+sheowl,Short-eared Owl,128,128,102,13,13
+snogoo,Snow Goose,97,97,77,10,10
+sora,Sora,146,146,116,15,15
+spodov,Spotted Dove,107,107,85,11,11
+sposan,Spotted Sandpiper,123,123,99,12,12
+towsol,Townsend's Solitaire,101,101,81,10,10
+warwhe1,Warbling White-eye,71,71,57,7,7
+wesmea,Western Meadowlark,343,300,240,30,30
+wiltur,Wild Turkey,76,76,60,8,8
+yefcan,Yellow-fronted Canary,67,67,53,7,7
+zebdov,Zebra Dove,89,89,71,9,9

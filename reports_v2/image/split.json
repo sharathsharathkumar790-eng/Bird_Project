@@ -1,0 +1,7 @@
+{
+  "train": 8251,
+  "val": 1768,
+  "test": 1769,
+  "seed": 42,
+  "ratio": "70/15/15 stratified"
+}

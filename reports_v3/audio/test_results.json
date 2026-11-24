@@ -1,0 +1,16 @@
+{
+ "species": 70,
+ "test_recordings": 1138,
+ "test_windows": 7304,
+ "test_accuracy_recording": 0.8489,
+ "test_top3_recording": 0.9323,
+ "test_top5_recording": 0.9508,
+ "test_accuracy_loudest_window_only": 0.8005,
+ "macro_precision": 0.8463,
+ "macro_recall": 0.81,
+ "macro_f1": 0.8184,
+ "weighted_f1": 0.8454,
+ "correct_recordings": 966,
+ "best_stage": 3,
+ "inference_ms_per_window": 2.56
+}

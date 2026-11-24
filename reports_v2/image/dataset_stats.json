@@ -1,0 +1,18 @@
+{
+  "num_species": 200,
+  "num_images": 11788,
+  "unreadable_removed": 0,
+  "images_per_species_min": 41,
+  "images_per_species_max": 60,
+  "images_per_species_mean": 58.94,
+  "width_min": 121,
+  "width_max": 500,
+  "width_mean": 467.9,
+  "height_min": 120,
+  "height_max": 500,
+  "height_mean": 386.0,
+  "color_modes": {
+    "RGB": 11780,
+    "L": 8
+  }
+}

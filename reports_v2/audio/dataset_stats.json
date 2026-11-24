@@ -1,0 +1,22 @@
+{
+  "num_species": 59,
+  "recordings_selected": 1679,
+  "duplicates_removed": 749,
+  "unique_recordings": 930,
+  "recordings_per_species_min": 3,
+  "recordings_per_species_max": 26,
+  "duration_s_min": 1.1,
+  "duration_s_median": 32.4,
+  "duration_s_max": 180.0,
+  "total_hours": 12.74,
+  "windows_total": 5810,
+  "windows_per_split": {
+    "train": 4304,
+    "test": 799,
+    "val": 707
+  },
+  "spectrogram_shape": [
+    128,
+    216
+  ]
+}
